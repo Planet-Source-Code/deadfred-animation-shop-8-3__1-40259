@@ -1,0 +1,60 @@
+----------------------------
+ Animation Shop 8.3 Read Me
+----------------------------
+
+Extract the contents of the zip file into a new directory, preferably called 'Am8'
+
+If the zipfile contains no Exes, you will have to compile them, using Visual Baisc. Go into the folder named 'Source Code' this contains three folders with code in, and one with icons in. Go into the folder named 'Editor' location the file Am8.vbp. Open it and compile it. Make sure the Exe is placed in the AM8 folder. Do the same for the Help.vbp file found in the Help folder, and for the Player.vbp file found in the Player folder
+
+Run the Exe named Animation Shop 8. Refer to the help program for instructions on how to use the program
+
+
+-------
+ Files
+-------
+
+The zip file contains the following folders
+
+Am8			The root folder where the Exes are held
+  Data			Contains the help, settings and tempory cut/copy/paste files 
+    Gallaries		Contains the gallaries structure of sub-folders and files
+    Templates		Contains files that are shown as templates in the New window
+  Import Examples	Contains a selection of different file inport formats
+  Samples		Contains files created in Animation Shop 
+  Source Code		
+    Editor		The source code for the editor program
+    Help		The source code for the help program
+    Icons		The icons that are using the the source code
+    Player		The source code for the Animation Viewer program
+
+
+
+-------
+ About
+-------
+
+Animation Shop 8.3 is the latest and most complete of all the versions of Animation Shop. It is at the stage where I no longer need to restart the project to complete all the features that I want to include. It now takes full advantage of classes and user controls, and the MDI environment. It is more efficient, and more reliable.
+
+While it has some new features, it also has had several features removed, which I feel are unnessessary, such as file archives, print screens, scene recording and so on. The features that remain are very useful and all work correctly.
+
+The user interface has also been inproved as much as I can. Settings such as visible toolbars, sdebars and the statusbar are saved on exit and restored on loading. The sidebars have been modified and extended to be clear and laid out in a friendly way.
+
+The help file and viewer have been re-written so that all the help is contained in a single file, which is password encripted to stop people editing the file. This program is about as complete as you are going to get from me
+
+
+
+FOR NT USERS!!!!
+
+If you dont have directX runtime files installed on your machine, this wont work.
+To fix this, you have to remove the DirectX functionality. To do this, open the
+source code, and go the DXEngine.ctl custom control. Select every line of code,
+and comment it, using the comment block command in the edit toolbar. Now, run the 
+program, and everytime it crashes, and gives the error 'Method Not Found'
+or something like that, comment that line out to. There are about 10 lines to comment
+out. When you have done this, the program will run, but everywhere where there should
+be a directX image of a model, you'll just get a black window. 
+
+
+----------------
+ 11:06 07/10/02
+----------------

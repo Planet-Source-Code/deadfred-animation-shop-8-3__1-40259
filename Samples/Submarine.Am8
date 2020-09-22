@@ -1,0 +1,770 @@
+MD_NT: 1 
+
+MD_NT: 1 
+MD_FP: C:\WINDOWS\Desktop\Animation Shop\Animation Shop 8.2\Submarine.Am8
+MD_FN: Submarine.Am8
+OBNEW: False
+OB_CL:  0 
+OB_DF:  0 
+OB_TC:  0 
+OB_TM:  0 
+OB_GN:  0 
+OB_TX: 
+OB_LY: Main
+OB_LK: False
+OB_HD: False
+OB_GY: False
+OB_VT:False
+
+ 0 
+-37 
+-130 
+OB_VT:False
+
+ 1 
+-37 
+ 110 
+OB_VT:False
+
+ 28 
+-57 
+-106 
+OB_VT:False
+
+ 28 
+-57 
+ 88 
+OB_VT:False
+
+ 28 
+-9 
+-106 
+OB_VT:False
+
+ 28 
+-9 
+ 88 
+OB_VT:False
+
+-32 
+-57 
+-106 
+OB_VT:False
+
+-32 
+-57 
+ 88 
+OB_VT:False
+
+-32 
+-9 
+-106 
+OB_VT:False
+
+-32 
+-9 
+ 88 
+OB_VT:False
+
+ 38 
+ 0 
+ 60 
+OB_VT:False
+
+ 38 
+ 0 
+-80 
+OB_VT:False
+
+ 38 
+-64 
+ 60 
+OB_VT:False
+
+ 38 
+-64 
+-80 
+OB_VT:False
+
+-42 
+-64 
+ 60 
+OB_VT:False
+
+-42 
+-64 
+-80 
+OB_VT:False
+
+-42 
+ 0 
+ 60 
+OB_VT:False
+
+-42 
+ 0 
+-80 
+OB_VT:False
+
+ 51 
+-37 
+-106 
+OB_VT:False
+
+ 51 
+-37 
+ 88 
+OB_VT:False
+
+-53 
+-37 
+-106 
+OB_VT:False
+
+-53 
+-37 
+ 88 
+OB_VT:False
+
+ 68 
+-37 
+ 60 
+OB_VT:False
+
+ 68 
+-37 
+-80 
+OB_VT:False
+
+-71 
+-37 
+ 60 
+OB_VT:False
+
+-71 
+-37 
+-80 
+OB2FC: 4 
+ 14 
+ 0 
+ 13 
+ 0 
+ 23 
+ 0 
+ 24 
+ 0 
+OB2FC: 4 
+ 24 
+ 0 
+ 23 
+ 0 
+ 11 
+ 0 
+ 12 
+ 0 
+OB2FC: 4 
+ 12 
+ 0 
+ 11 
+ 0 
+ 17 
+ 0 
+ 18 
+ 0 
+OB2FC: 4 
+ 18 
+ 0 
+ 17 
+ 0 
+ 25 
+ 0 
+ 26 
+ 0 
+OB2FC: 4 
+ 26 
+ 0 
+ 25 
+ 0 
+ 15 
+ 0 
+ 16 
+ 0 
+OB2FC: 4 
+ 16 
+ 0 
+ 15 
+ 0 
+ 13 
+ 0 
+ 14 
+ 0 
+OB2FC: 4 
+ 7 
+ 0 
+ 21 
+ 0 
+ 26 
+ 0 
+ 16 
+ 0 
+OB2FC: 4 
+ 21 
+ 0 
+ 9 
+ 0 
+ 18 
+ 0 
+ 26 
+ 0 
+OB2FC: 4 
+ 9 
+ 0 
+ 5 
+ 0 
+ 12 
+ 0 
+ 18 
+ 0 
+OB2FC: 4 
+ 5 
+ 0 
+ 19 
+ 0 
+ 24 
+ 0 
+ 12 
+ 0 
+OB2FC: 4 
+ 19 
+ 0 
+ 3 
+ 0 
+ 14 
+ 0 
+ 24 
+ 0 
+OB2FC: 4 
+ 3 
+ 0 
+ 7 
+ 0 
+ 16 
+ 0 
+ 14 
+ 0 
+OB2FC: 4 
+ 4 
+ 0 
+ 20 
+ 0 
+ 23 
+ 0 
+ 13 
+ 0 
+OB2FC: 4 
+ 20 
+ 0 
+ 6 
+ 0 
+ 11 
+ 0 
+ 23 
+ 0 
+OB2FC: 4 
+ 6 
+ 0 
+ 10 
+ 0 
+ 17 
+ 0 
+ 11 
+ 0 
+OB2FC: 4 
+ 10 
+ 0 
+ 22 
+ 0 
+ 25 
+ 0 
+ 17 
+ 0 
+OB2FC: 4 
+ 22 
+ 0 
+ 8 
+ 0 
+ 15 
+ 0 
+ 25 
+ 0 
+OB2FC: 4 
+ 8 
+ 0 
+ 4 
+ 0 
+ 13 
+ 0 
+ 15 
+ 0 
+OB2FC: 3 
+ 2 
+ 0 
+ 20 
+ 0 
+ 4 
+ 0 
+OB2FC: 3 
+ 2 
+ 0 
+ 6 
+ 0 
+ 20 
+ 0 
+OB2FC: 3 
+ 2 
+ 0 
+ 10 
+ 0 
+ 6 
+ 0 
+OB2FC: 3 
+ 2 
+ 0 
+ 22 
+ 0 
+ 10 
+ 0 
+OB2FC: 3 
+ 2 
+ 0 
+ 8 
+ 0 
+ 22 
+ 0 
+OB2FC: 3 
+ 2 
+ 0 
+ 4 
+ 0 
+ 8 
+ 0 
+OB2FC: 3 
+ 1 
+ 0 
+ 21 
+ 0 
+ 7 
+ 0 
+OB2FC: 3 
+ 1 
+ 0 
+ 9 
+ 0 
+ 21 
+ 0 
+OB2FC: 3 
+ 1 
+ 0 
+ 5 
+ 0 
+ 9 
+ 0 
+OB2FC: 3 
+ 1 
+ 0 
+ 19 
+ 0 
+ 5 
+ 0 
+OB2FC: 3 
+ 1 
+ 0 
+ 3 
+ 0 
+ 19 
+ 0 
+OB2FC: 3 
+ 1 
+ 0 
+ 7 
+ 0 
+ 3 
+ 0 
+OBNEW: False
+OB_CL:  0 
+OB_DF:  0 
+OB_TC:  0 
+OB_TM:  0 
+OB_GN:  0 
+OB_TX: 
+OB_LY: Main
+OB_LK: False
+OB_HD: False
+OB_GY: False
+OB_VT:False
+
+ 18 
+-64 
+ 59 
+OB_VT:False
+
+ 38 
+-64 
+ 59 
+OB_VT:False
+
+ 38 
+-104 
+ 89 
+OB_VT:False
+
+ 18 
+-104 
+ 89 
+OB_VT:False
+
+ 18 
+-104 
+ 68 
+OB_VT:False
+
+ 38 
+-104 
+ 68 
+OB_VT:False
+
+ 38 
+-64 
+ 38 
+OB_VT:False
+
+ 18 
+-64 
+ 38 
+OB2FC: 4 
+ 1 
+ 0 
+ 2 
+ 0 
+ 3 
+ 0 
+ 4 
+ 0 
+OB2FC: 4 
+ 5 
+ 0 
+ 6 
+ 0 
+ 7 
+ 0 
+ 8 
+ 0 
+OB2FC: 4 
+ 1 
+ 0 
+ 4 
+ 0 
+ 5 
+ 0 
+ 8 
+ 0 
+OB2FC: 4 
+ 7 
+ 0 
+ 6 
+ 0 
+ 3 
+ 0 
+ 2 
+ 0 
+OBNEW: False
+OB_CL:  0 
+OB_DF:  0 
+OB_TC:  0 
+OB_TM:  0 
+OB_GN:  0 
+OB_TX: 
+OB_LY: Main
+OB_LK: False
+OB_HD: False
+OB_GY: False
+OB_VT:False
+
+ 24 
+-94 
+ 3 
+OB_VT:False
+
+-28 
+-94 
+ 3 
+OB_VT:False
+
+-42 
+-64 
+ 20 
+OB_VT:False
+
+ 38 
+-64 
+ 20 
+OB_VT:False
+
+ 38 
+-64 
+-80 
+OB_VT:False
+
+-42 
+-64 
+-80 
+OB_VT:False
+
+-28 
+-94 
+-63 
+OB_VT:False
+
+ 24 
+-94 
+-63 
+OB2FC: 4 
+ 1 
+ 0 
+ 2 
+ 0 
+ 3 
+ 0 
+ 4 
+ 0 
+OB2FC: 4 
+ 5 
+ 0 
+ 6 
+ 0 
+ 7 
+ 0 
+ 8 
+ 0 
+OB2FC: 4 
+ 8 
+ 0 
+ 7 
+ 0 
+ 2 
+ 0 
+ 1 
+ 0 
+OB2FC: 4 
+ 1 
+ 0 
+ 4 
+ 0 
+ 5 
+ 0 
+ 8 
+ 0 
+OB2FC: 4 
+ 7 
+ 0 
+ 6 
+ 0 
+ 3 
+ 0 
+ 2 
+ 0 
+OBNEW: False
+OB_CL:  0 
+OB_DF:  0 
+OB_TC:  0 
+OB_TM:  0 
+OB_GN:  0 
+OB_TX: 
+OB_LY: Main
+OB_LK: False
+OB_HD: False
+OB_GY: False
+OB_VT:False
+
+ 69 
+-114 
+ 105 
+OB_VT:False
+
+-71 
+-114 
+ 105 
+OB_VT:False
+
+-71 
+-104 
+ 105 
+OB_VT:False
+
+ 69 
+-104 
+ 105 
+OB_VT:False
+
+ 69 
+-104 
+ 65 
+OB_VT:False
+
+-71 
+-104 
+ 65 
+OB_VT:False
+
+-71 
+-114 
+ 65 
+OB_VT:False
+
+ 69 
+-114 
+ 65 
+OB2FC: 4 
+ 1 
+ 0 
+ 2 
+ 0 
+ 3 
+ 0 
+ 4 
+ 0 
+OB2FC: 4 
+ 5 
+ 0 
+ 6 
+ 0 
+ 7 
+ 0 
+ 8 
+ 0 
+OB2FC: 4 
+ 8 
+ 0 
+ 7 
+ 0 
+ 2 
+ 0 
+ 1 
+ 0 
+OB2FC: 4 
+ 6 
+ 0 
+ 5 
+ 0 
+ 4 
+ 0 
+ 3 
+ 0 
+OB2FC: 4 
+ 1 
+ 0 
+ 4 
+ 0 
+ 5 
+ 0 
+ 8 
+ 0 
+OB2FC: 4 
+ 7 
+ 0 
+ 6 
+ 0 
+ 3 
+ 0 
+ 2 
+ 0 
+OBNEW: False
+OB_CL:  0 
+OB_DF:  0 
+OB_TC:  0 
+OB_TM:  0 
+OB_GN:  0 
+OB_TX: 
+OB_LY: Main
+OB_LK: False
+OB_HD: False
+OB_GY: False
+OB_VT:False
+
+-42 
+-64 
+ 59 
+OB_VT:False
+
+-22 
+-64 
+ 59 
+OB_VT:False
+
+-22 
+-104 
+ 89 
+OB_VT:False
+
+-42 
+-104 
+ 89 
+OB_VT:False
+
+-42 
+-104 
+ 68 
+OB_VT:False
+
+-22 
+-104 
+ 68 
+OB_VT:False
+
+-22 
+-64 
+ 38 
+OB_VT:False
+
+-42 
+-64 
+ 38 
+OB2FC: 4 
+ 1 
+ 0 
+ 2 
+ 0 
+ 3 
+ 0 
+ 4 
+ 0 
+OB2FC: 4 
+ 5 
+ 0 
+ 6 
+ 0 
+ 7 
+ 0 
+ 8 
+ 0 
+OB2FC: 4 
+ 1 
+ 0 
+ 4 
+ 0 
+ 5 
+ 0 
+ 8 
+ 0 
+OB2FC: 4 
+ 7 
+ 0 
+ 6 
+ 0 
+ 3 
+ 0 
+ 2 
+ 0 
+OBEND:False
+JTEND:False
+AM_QT: 0 

@@ -1,0 +1,275 @@
+MD_NT: 1 
+
+MD_NT: 1 
+MD_FP: C:\WINDOWS\Desktop\Animation Shop 8.3\Samples\Dice.Am8
+LY_LK: Main
+LY_LN: Main
+LY_CL:  0 
+LY_GR: False
+LY_HD: False
+LY_LL: False
+LY_SL: True
+JTCNT:  1 
+OBCNT:  1 
+OBNEW: Custom32981.160.7607236
+OB_CL:  0 
+OB_DF:  0 
+OB_TC:  0 
+OB_TM:  0 
+OB_GN:  0 
+OB_TX: 
+OB_LY: Main
+OB_LK: False
+OB_HD: False
+OB_GY: False
+OB_TV:False
+ 0 
+ 200 
+OB_TV:False
+ 0 
+ 300 
+OB_TV:False
+ 100 
+ 0 
+OB_TV:False
+ 100 
+ 100 
+OB_TV:False
+ 100 
+ 200 
+OB_TV:False
+ 100 
+ 300 
+OB_TV:False
+ 100 
+ 400 
+OB_TV:False
+ 200 
+ 0 
+OB_TV:False
+ 200 
+ 100 
+OB_TV:False
+ 200 
+ 200 
+OB_TV:False
+ 200 
+ 300 
+OB_TV:False
+ 200 
+ 400 
+OB_TV:False
+ 300 
+ 200 
+OB_TV:False
+ 300 
+ 300 
+OB_VT:False
+Joint33123.317.750544
+-50 
+-50 
+ 50 
+OB_VT:False
+Joint33123.317.750544
+ 50 
+-50 
+ 50 
+OB_VT:False
+Joint33123.317.750544
+ 50 
+ 50 
+ 50 
+OB_VT:False
+Joint33123.317.750544
+-50 
+ 50 
+ 50 
+OB_VT:False
+Joint33123.317.750544
+-50 
+-50 
+-50 
+OB_VT:False
+Joint33123.317.750544
+ 50 
+-50 
+-50 
+OB_VT:False
+Joint33123.317.750544
+ 50 
+ 50 
+-50 
+OB_VT:False
+Joint33123.317.750544
+-50 
+ 50 
+-50 
+OB2FC: 4 
+ 4 
+ 1 
+ 3 
+ 2 
+ 2 
+ 6 
+ 1 
+ 5 
+OB2FC: 4 
+ 5 
+ 3 
+ 6 
+ 4 
+ 7 
+ 9 
+ 8 
+ 8 
+OB2FC: 4 
+ 3 
+ 4 
+ 4 
+ 5 
+ 8 
+ 10 
+ 7 
+ 9 
+OB2FC: 4 
+ 1 
+ 5 
+ 2 
+ 6 
+ 6 
+ 11 
+ 5 
+ 10 
+OB2FC: 4 
+ 2 
+ 6 
+ 3 
+ 7 
+ 7 
+ 12 
+ 6 
+ 11 
+OB2FC: 4 
+ 5 
+ 10 
+ 8 
+ 11 
+ 4 
+ 14 
+ 1 
+ 13 
+OBEND:False
+JTNEW: Joint33123.317.750544
+JT_CL:  0 
+JT_GY: False
+JT_HD: False
+JT_LK: False
+JT_NM: New Joint 1
+JT_TG: 
+JT_OX:  0 
+JT_OY:  0 
+JT_OZ:  0 
+JT_PF:  0 
+JT_PV:  0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+JTEND:False
+UDTJT: 0 
+SC_KY: BaseFrame
+SC_NM: BaseFrame
+FM_KY: BaseFrame
+FM_NM: BaseFrame
+FM_SM:  10 
+FM_SP:  0 
+NEWRW: Joint33123.317.750544
+New Joint 1
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+FM_KY: Animate
+FM_NM: Animate
+FM_SM:  10 
+FM_SP:  0 
+NEWRW: Joint33123.317.750544
+New Joint 1
+ 3590 
+ 3590 
+ 3590 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+FM_KY: Inc
+FM_NM: Inc
+FM_SM:  10 
+FM_SP:  0 
+NEWRW: Joint33123.317.750544
+New Joint 1
+ 143.6 
+ 143.6 
+ 143.6 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+FM_KY: F4
+FM_NM: F4
+FM_SM:  10 
+FM_SP:  0 
+NEWRW: Joint33123.317.750544
+New Joint 1
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+SC_KY: Scene33144.514.269577
+SC_NM: Spin
+FM_KY: F1
+FM_NM: F1
+FM_SM:  3 
+FM_SP:  0 
+NEWRW: Joint33123.317.750544
+New Joint 1
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+FM_KY: F2
+FM_NM: F2
+FM_SM:  25 
+FM_SP:  0 
+NEWRW: Joint33123.317.750544
+New Joint 1
+ 3590 
+ 3590 
+ 3590 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+AM_QT: 0 

@@ -1,0 +1,1150 @@
+MD_NT: 1 
+
+MD_NT: 1 
+MD_FP: C:\WINDOWS\Desktop\Animation Shop 8.3\Data\Templates\RoboTail.Am8
+LY_LK: Main
+LY_LN: Main
+LY_CL:  0 
+LY_GR: False
+LY_HD: False
+LY_LL: False
+LY_SL: True
+JTCNT:  10 
+OBCNT:  1 
+OBNEW: Load40176.9510.8626193
+OB_CL:  0 
+OB_DF:  0 
+OB_TC:  0 
+OB_TM:  0 
+OB_GN:  0 
+OB_TX: 
+OB_LY: Main
+OB_LK: False
+OB_HD: False
+OB_GY: False
+OB_TV:False
+ 0 
+ 200 
+OB_TV:False
+ 0 
+ 300 
+OB_TV:False
+ 100 
+ 0 
+OB_TV:False
+ 100 
+ 100 
+OB_TV:False
+ 100 
+ 200 
+OB_TV:False
+ 100 
+ 300 
+OB_TV:False
+ 100 
+ 400 
+OB_TV:False
+ 200 
+ 0 
+OB_TV:False
+ 200 
+ 100 
+OB_TV:False
+ 200 
+ 200 
+OB_TV:False
+ 200 
+ 300 
+OB_TV:False
+ 200 
+ 400 
+OB_TV:False
+ 300 
+ 200 
+OB_TV:False
+ 300 
+ 300 
+OB_VT:True
+Load40176.9510.5795186
+-50 
+-50 
+ 50 
+OB_VT:True
+Load40176.9510.5795186
+ 50 
+-50 
+ 50 
+OB_VT:True
+Load40176.9510.5795186
+ 50 
+ 50 
+ 50 
+OB_VT:True
+Load40176.9510.5795186
+-50 
+ 50 
+ 50 
+OB_VT:True
+Load40176.9510.5795186
+-50 
+-50 
+-50 
+OB_VT:True
+Load40176.9510.5795186
+ 50 
+-50 
+-50 
+OB_VT:True
+Load40176.9510.5795186
+ 50 
+ 50 
+-50 
+OB_VT:True
+Load40176.9510.5795186
+-50 
+ 50 
+-50 
+OB_VT:True
+Load40176.9520.2895625
+ 75 
+-40 
+ 40 
+OB_VT:True
+Load40176.9520.2895625
+ 75 
+ 40 
+ 40 
+OB_VT:True
+Load40176.9520.2895625
+ 75 
+ 40 
+-40 
+OB_VT:True
+Load40176.9520.2895625
+ 75 
+-40 
+-40 
+OB_VT:True
+Load40176.9530.301948
+ 100 
+-32 
+ 32 
+OB_VT:True
+Load40176.9530.301948
+ 100 
+ 32 
+ 32 
+OB_VT:True
+Load40176.9530.301948
+ 100 
+ 32 
+-32 
+OB_VT:True
+Load40176.9530.301948
+ 100 
+-32 
+-32 
+OB_VT:True
+Load40176.9540.7747401
+ 125 
+-26 
+ 26 
+OB_VT:True
+Load40176.9540.7747401
+ 125 
+ 26 
+ 26 
+OB_VT:True
+Load40176.9540.7747401
+ 125 
+ 26 
+-26 
+OB_VT:True
+Load40176.9540.7747401
+ 125 
+-26 
+-26 
+OB_VT:True
+Load40176.9551.401764E-02
+ 150 
+-21 
+ 21 
+OB_VT:True
+Load40176.9551.401764E-02
+ 150 
+ 21 
+ 21 
+OB_VT:True
+Load40176.9551.401764E-02
+ 150 
+ 21 
+-21 
+OB_VT:True
+Load40176.9551.401764E-02
+ 150 
+-21 
+-21 
+OB_VT:True
+Load40176.9560.7607236
+ 175 
+-17 
+ 17 
+OB_VT:True
+Load40176.9560.7607236
+ 175 
+ 17 
+ 17 
+OB_VT:True
+Load40176.9560.7607236
+ 175 
+ 17 
+-17 
+OB_VT:True
+Load40176.9560.7607236
+ 175 
+-17 
+-17 
+OB_VT:True
+Load40176.9570.81449
+ 200 
+-14 
+ 14 
+OB_VT:True
+Load40176.9570.81449
+ 200 
+ 14 
+ 14 
+OB_VT:True
+Load40176.9570.81449
+ 200 
+ 14 
+-14 
+OB_VT:True
+Load40176.9570.81449
+ 200 
+-14 
+-14 
+OB_VT:True
+Load40176.9580.7090379
+ 225 
+-11 
+ 11 
+OB_VT:True
+Load40176.9580.7090379
+ 225 
+ 11 
+ 11 
+OB_VT:True
+Load40176.9580.7090379
+ 225 
+ 11 
+-11 
+OB_VT:True
+Load40176.9580.7090379
+ 225 
+-11 
+-11 
+OB_VT:True
+Load40176.9594.535276E-02
+ 250 
+-9 
+ 9 
+OB_VT:True
+Load40176.9594.535276E-02
+ 250 
+ 9 
+ 9 
+OB_VT:True
+Load40176.9594.535276E-02
+ 250 
+ 9 
+-9 
+OB_VT:True
+Load40176.9594.535276E-02
+ 250 
+-9 
+-9 
+OB_VT:True
+Load40176.95100.4140327
+ 379 
+ 0 
+ 0 
+OB2FC: 4 
+ 3 
+ 4 
+ 4 
+ 5 
+ 8 
+ 10 
+ 7 
+ 9 
+OB2FC: 4 
+ 1 
+ 5 
+ 2 
+ 6 
+ 6 
+ 11 
+ 5 
+ 10 
+OB2FC: 4 
+ 2 
+ 0 
+ 3 
+ 0 
+ 10 
+ 0 
+ 9 
+ 0 
+OB2FC: 4 
+ 3 
+ 0 
+ 7 
+ 0 
+ 11 
+ 0 
+ 10 
+ 0 
+OB2FC: 4 
+ 7 
+ 0 
+ 6 
+ 0 
+ 12 
+ 0 
+ 11 
+ 0 
+OB2FC: 4 
+ 6 
+ 0 
+ 2 
+ 0 
+ 9 
+ 0 
+ 12 
+ 0 
+OB2FC: 4 
+ 9 
+ 0 
+ 10 
+ 0 
+ 14 
+ 0 
+ 13 
+ 0 
+OB2FC: 4 
+ 10 
+ 0 
+ 11 
+ 0 
+ 15 
+ 0 
+ 14 
+ 0 
+OB2FC: 4 
+ 11 
+ 0 
+ 12 
+ 0 
+ 16 
+ 0 
+ 15 
+ 0 
+OB2FC: 4 
+ 12 
+ 0 
+ 9 
+ 0 
+ 13 
+ 0 
+ 16 
+ 0 
+OB2FC: 4 
+ 13 
+ 0 
+ 14 
+ 0 
+ 18 
+ 0 
+ 17 
+ 0 
+OB2FC: 4 
+ 14 
+ 0 
+ 15 
+ 0 
+ 19 
+ 0 
+ 18 
+ 0 
+OB2FC: 4 
+ 15 
+ 0 
+ 16 
+ 0 
+ 20 
+ 0 
+ 19 
+ 0 
+OB2FC: 4 
+ 16 
+ 0 
+ 13 
+ 0 
+ 17 
+ 0 
+ 20 
+ 0 
+OB2FC: 4 
+ 17 
+ 0 
+ 18 
+ 0 
+ 22 
+ 0 
+ 21 
+ 0 
+OB2FC: 4 
+ 18 
+ 0 
+ 19 
+ 0 
+ 23 
+ 0 
+ 22 
+ 0 
+OB2FC: 4 
+ 19 
+ 0 
+ 20 
+ 0 
+ 24 
+ 0 
+ 23 
+ 0 
+OB2FC: 4 
+ 20 
+ 0 
+ 17 
+ 0 
+ 21 
+ 0 
+ 24 
+ 0 
+OB2FC: 4 
+ 21 
+ 0 
+ 22 
+ 0 
+ 26 
+ 0 
+ 25 
+ 0 
+OB2FC: 4 
+ 22 
+ 0 
+ 23 
+ 0 
+ 27 
+ 0 
+ 26 
+ 0 
+OB2FC: 4 
+ 23 
+ 0 
+ 24 
+ 0 
+ 28 
+ 0 
+ 27 
+ 0 
+OB2FC: 4 
+ 24 
+ 0 
+ 21 
+ 0 
+ 25 
+ 0 
+ 28 
+ 0 
+OB2FC: 4 
+ 25 
+ 0 
+ 26 
+ 0 
+ 30 
+ 0 
+ 29 
+ 0 
+OB2FC: 4 
+ 26 
+ 0 
+ 27 
+ 0 
+ 31 
+ 0 
+ 30 
+ 0 
+OB2FC: 4 
+ 27 
+ 0 
+ 28 
+ 0 
+ 32 
+ 0 
+ 31 
+ 0 
+OB2FC: 4 
+ 28 
+ 0 
+ 25 
+ 0 
+ 29 
+ 0 
+ 32 
+ 0 
+OB2FC: 4 
+ 29 
+ 0 
+ 30 
+ 0 
+ 34 
+ 0 
+ 33 
+ 0 
+OB2FC: 4 
+ 30 
+ 0 
+ 31 
+ 0 
+ 35 
+ 0 
+ 34 
+ 0 
+OB2FC: 4 
+ 31 
+ 0 
+ 32 
+ 0 
+ 36 
+ 0 
+ 35 
+ 0 
+OB2FC: 4 
+ 32 
+ 0 
+ 29 
+ 0 
+ 33 
+ 0 
+ 36 
+ 0 
+OB2FC: 4 
+ 33 
+ 0 
+ 34 
+ 0 
+ 38 
+ 0 
+ 37 
+ 0 
+OB2FC: 4 
+ 34 
+ 0 
+ 35 
+ 0 
+ 39 
+ 0 
+ 38 
+ 0 
+OB2FC: 4 
+ 35 
+ 0 
+ 36 
+ 0 
+ 40 
+ 0 
+ 39 
+ 0 
+OB2FC: 4 
+ 36 
+ 0 
+ 33 
+ 0 
+ 37 
+ 0 
+ 40 
+ 0 
+OB2FC: 3 
+ 37 
+ 0 
+ 38 
+ 0 
+ 41 
+ 0 
+OB2FC: 3 
+ 38 
+ 0 
+ 39 
+ 0 
+ 41 
+ 0 
+OB2FC: 3 
+ 39 
+ 0 
+ 40 
+ 0 
+ 41 
+ 0 
+OB2FC: 3 
+ 40 
+ 0 
+ 37 
+ 0 
+ 41 
+ 0 
+OB2FC: 4 
+ 3 
+ 0 
+ 2 
+ 0 
+ 1 
+ 0 
+ 4 
+ 0 
+OB2FC: 4 
+ 8 
+ 0 
+ 5 
+ 0 
+ 6 
+ 0 
+ 7 
+ 0 
+OB2FC: 4 
+ 4 
+ 0 
+ 1 
+ 0 
+ 5 
+ 0 
+ 8 
+ 0 
+OBEND:False
+JTNEW: Load40176.9510.5795186
+JT_CL:  0 
+JT_GY: False
+JT_HD: False
+JT_LK: False
+JT_NM: New Joint 1
+JT_TG: 
+JT_OX:  0 
+JT_OY:  0 
+JT_OZ:  0 
+JT_PF:  0 
+JT_PV:  0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+JTNEW: Load40176.9520.2895625
+JT_CL:  0 
+JT_GY: False
+JT_HD: False
+JT_LK: False
+JT_NM: New Joint 2
+JT_TG: Load40176.9510.5795186
+JT_OX:  50 
+JT_OY:  0 
+JT_OZ:  0 
+JT_PF:  0 
+JT_PV:  0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+JTNEW: Load40176.9530.301948
+JT_CL:  0 
+JT_GY: False
+JT_HD: False
+JT_LK: False
+JT_NM: New Joint 3
+JT_TG: Load40176.9520.2895625
+JT_OX:  75 
+JT_OY:  0 
+JT_OZ:  0 
+JT_PF:  0 
+JT_PV:  0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+JTNEW: Load40176.9540.7747401
+JT_CL:  0 
+JT_GY: False
+JT_HD: False
+JT_LK: False
+JT_NM: New Joint 4
+JT_TG: Load40176.9530.301948
+JT_OX:  100 
+JT_OY:  0 
+JT_OZ:  0 
+JT_PF:  0 
+JT_PV:  0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+JTNEW: Load40176.9551.401764E-02
+JT_CL:  0 
+JT_GY: False
+JT_HD: False
+JT_LK: False
+JT_NM: New Joint 5
+JT_TG: Load40176.9540.7747401
+JT_OX:  126 
+JT_OY:  0 
+JT_OZ:  0 
+JT_PF:  0 
+JT_PV:  0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+JTNEW: Load40176.9560.7607236
+JT_CL:  0 
+JT_GY: False
+JT_HD: False
+JT_LK: False
+JT_NM: New Joint 6
+JT_TG: Load40176.9551.401764E-02
+JT_OX:  150 
+JT_OY:  0 
+JT_OZ:  0 
+JT_PF:  0 
+JT_PV:  0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+JTNEW: Load40176.9570.81449
+JT_CL:  0 
+JT_GY: False
+JT_HD: False
+JT_LK: False
+JT_NM: New Joint 7
+JT_TG: Load40176.9560.7607236
+JT_OX:  176 
+JT_OY:  0 
+JT_OZ:  0 
+JT_PF:  0 
+JT_PV:  0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+JTNEW: Load40176.9580.7090379
+JT_CL:  0 
+JT_GY: False
+JT_HD: False
+JT_LK: False
+JT_NM: New Joint 8
+JT_TG: Load40176.9570.81449
+JT_OX:  200 
+JT_OY:  0 
+JT_OZ:  0 
+JT_PF:  0 
+JT_PV:  0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+JTNEW: Load40176.9594.535276E-02
+JT_CL:  0 
+JT_GY: False
+JT_HD: False
+JT_LK: False
+JT_NM: New Joint 9
+JT_TG: Load40176.9580.7090379
+JT_OX:  226 
+JT_OY:  0 
+JT_OZ:  0 
+JT_PF:  0 
+JT_PV:  0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+JTNEW: Load40176.95100.4140327
+JT_CL:  0 
+JT_GY: False
+JT_HD: False
+JT_LK: False
+JT_NM: New Joint 10
+JT_TG: Load40176.9594.535276E-02
+JT_OX:  250 
+JT_OY:  0 
+JT_OZ:  0 
+JT_PF:  0 
+JT_PV:  0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+JTEND:False
+UDTJT: 0 
+SC_KY: Baseframe
+SC_NM: Baseframe
+FM_KY: Baseframe
+FM_NM: Baseframe
+FM_SM:  0 
+FM_SP:  0 
+NEWRW: Load40176.9510.5795186
+New Joint 1
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+NEWRW: Load40176.9520.2895625
+New Joint 2
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+NEWRW: Load40176.9530.301948
+New Joint 3
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+NEWRW: Load40176.9540.7747401
+New Joint 4
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+NEWRW: Load40176.9551.401764E-02
+New Joint 5
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+NEWRW: Load40176.9560.7607236
+New Joint 6
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+NEWRW: Load40176.9570.81449
+New Joint 7
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+NEWRW: Load40176.9580.7090379
+New Joint 8
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+NEWRW: Load40176.9594.535276E-02
+New Joint 9
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+NEWRW: Load40176.95100.4140327
+New Joint 10
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+FM_KY: Animate
+FM_NM: Animate
+FM_SM:  0 
+FM_SP:  0 
+NEWRW: Load40176.9510.5795186
+New Joint 1
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+NEWRW: Load40176.9520.2895625
+New Joint 2
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+NEWRW: Load40176.9530.301948
+New Joint 3
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+NEWRW: Load40176.9540.7747401
+New Joint 4
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+NEWRW: Load40176.9551.401764E-02
+New Joint 5
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+NEWRW: Load40176.9560.7607236
+New Joint 6
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+NEWRW: Load40176.9570.81449
+New Joint 7
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+NEWRW: Load40176.9580.7090379
+New Joint 8
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+NEWRW: Load40176.9594.535276E-02
+New Joint 9
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+NEWRW: Load40176.95100.4140327
+New Joint 10
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+FM_KY: Inc
+FM_NM: Inc
+FM_SM:  0 
+FM_SP:  0 
+NEWRW: Load40176.9510.5795186
+New Joint 1
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+NEWRW: Load40176.9520.2895625
+New Joint 2
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+NEWRW: Load40176.9530.301948
+New Joint 3
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+NEWRW: Load40176.9540.7747401
+New Joint 4
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+NEWRW: Load40176.9551.401764E-02
+New Joint 5
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+NEWRW: Load40176.9560.7607236
+New Joint 6
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+NEWRW: Load40176.9570.81449
+New Joint 7
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+NEWRW: Load40176.9580.7090379
+New Joint 8
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+NEWRW: Load40176.9594.535276E-02
+New Joint 9
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+NEWRW: Load40176.95100.4140327
+New Joint 10
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+AM_QT: 0 

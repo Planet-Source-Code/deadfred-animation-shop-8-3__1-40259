@@ -1,0 +1,136 @@
+JTCNT:  13 
+OBCNT:  0 
+OBEND:False
+JTNEW: Joint73286.046.951155
+JT_CL:  0 
+JT_GY: False
+JT_HD: False
+JT_LK: False
+JT_NM: New Joint 1
+JT_TG: 
+JT_OX:  0 
+JT_OY:  0 
+JT_OZ:  0 
+JTNEW: Joint73293.459.800033
+JT_CL:  0 
+JT_GY: False
+JT_HD: False
+JT_LK: False
+JT_NM: New Joint 2
+JT_TG: Joint73286.046.951155
+JT_OX: -50 
+JT_OY:  0 
+JT_OZ:  50 
+JTNEW: Joint73294.222.439313
+JT_CL:  0 
+JT_GY: False
+JT_HD: False
+JT_LK: False
+JT_NM: New Joint 3
+JT_TG: Joint73293.459.800033
+JT_OX: -50 
+JT_OY:  0 
+JT_OZ:  100 
+JTNEW: Joint73294.775.338731
+JT_CL:  0 
+JT_GY: False
+JT_HD: False
+JT_LK: False
+JT_NM: New Joint 4
+JT_TG: Joint73294.222.439313
+JT_OX: -50 
+JT_OY:  0 
+JT_OZ:  150 
+JTNEW: Joint73297.91.063697
+JT_CL:  0 
+JT_GY: False
+JT_HD: False
+JT_LK: False
+JT_NM: New Joint 5
+JT_TG: Joint73286.046.951155
+JT_OX:  50 
+JT_OY:  0 
+JT_OZ:  50 
+JTNEW: Joint73298.569.994145
+JT_CL:  0 
+JT_GY: False
+JT_HD: False
+JT_LK: False
+JT_NM: New Joint 6
+JT_TG: Joint73297.91.063697
+JT_OX:  50 
+JT_OY:  0 
+JT_OZ:  100 
+JTNEW: Joint73299.166.761759
+JT_CL:  0 
+JT_GY: False
+JT_HD: False
+JT_LK: False
+JT_NM: New Joint 7
+JT_TG: Joint73298.569.994145
+JT_OX:  50 
+JT_OY:  0 
+JT_OZ:  150 
+JTNEW: Joint73312.290.1570392
+JT_CL:  0 
+JT_GY: False
+JT_HD: False
+JT_LK: False
+JT_NM: New Joint 8
+JT_TG: Joint73286.046.951155
+JT_OX:  0 
+JT_OY:  0 
+JT_OZ: -100 
+JTNEW: Joint73319.545.751838
+JT_CL:  0 
+JT_GY: False
+JT_HD: False
+JT_LK: False
+JT_NM: New Joint 9
+JT_TG: Joint73312.290.1570392
+JT_OX: -50 
+JT_OY:  0 
+JT_OZ: -100 
+JTNEW: Joint73321.241.000522
+JT_CL:  0 
+JT_GY: False
+JT_HD: False
+JT_LK: False
+JT_NM: New Joint 10
+JT_TG: Joint73319.545.751838
+JT_OX: -100 
+JT_OY:  0 
+JT_OZ:  0 
+JTNEW: Joint73329.877.988844
+JT_CL:  0 
+JT_GY: False
+JT_HD: False
+JT_LK: False
+JT_NM: New Joint 11
+JT_TG: Joint73312.290.1570392
+JT_OX:  50 
+JT_OY:  0 
+JT_OZ: -100 
+JTNEW: Joint73330.912.844803
+JT_CL:  0 
+JT_GY: False
+JT_HD: False
+JT_LK: False
+JT_NM: New Joint 12
+JT_TG: Joint73329.877.988844
+JT_OX:  100 
+JT_OY:  0 
+JT_OZ:  0 
+JTNEW: Joint73350.850.4564917
+JT_CL:  0 
+JT_GY: False
+JT_HD: False
+JT_LK: False
+JT_NM: New Joint 13
+JT_TG: Joint73312.290.1570392
+JT_OX:  0 
+JT_OY:  0 
+JT_OZ: -150 
+JTEND:False
+UDTJT: 0 
+AM_QT: 0 

@@ -1,0 +1,534 @@
+Sound Emiter
+This entity plays a sound file within a game
+ 3 
+
+
+False
+False
+False
+Name
+text
+The name used to refer to this entity
+ 2000 
+
+
+False
+False
+False
+Sound
+file
+The sound this entity creates
+ 2000 
+0|100
+50
+False
+False
+False
+Volume
+slider
+The sound level of this item
+ 2000 
+Race Marker Flag
+This entity is used to mark out a race track. Each marker is targeted to the next to form a circuit
+ 5 
+
+
+False
+False
+False
+Name
+text
+
+ 2000 
+
+
+False
+False
+False
+Next Marker
+text
+
+ 2000 
+0|50
+
+False
+False
+False
+Points
+slider
+
+ 2000 
+Angle
+
+False
+False
+False
+Angle
+slider
+
+ 2000 
+
+
+False
+False
+False
+Message
+text
+
+ 2000 
+Race Boye
+This is a small marker that can help to guide you around the course
+ 3 
+
+
+False
+False
+False
+Name
+text
+
+ 2000 
+
+7869906
+False
+False
+False
+Colour
+colour
+
+ 2000 
+Angle
+
+False
+False
+False
+Angle
+slider
+
+ 2000 
+Opponent
+This enetity creates an opponent, controled by the computer, to race against
+ 5 
+
+
+False
+False
+False
+Name
+text
+
+ 2000 
+Angle
+
+False
+False
+False
+Angle
+slider
+
+ 2000 
+20|50
+35
+False
+False
+False
+Health
+slider
+
+ 2000 
+Jet Boat|Rocket Boat|Slim Craft|Swamp Buggy
+1
+False
+True
+False
+Model
+combo
+
+ 2000 
+
+16711680
+False
+False
+False
+Colour
+colour
+
+ 2000 
+Civillian Flag
+Used to make civillians move around. It can either send them to a random flag, or to one of three preset flags
+ 5 
+
+
+False
+False
+False
+Name
+text
+Somthing or other
+ 2000 
+
+
+False
+True
+False
+Random Target
+tick
+Sets civillians who come to this flag to pick a random next target
+ 2000 
+
+
+False
+False
+False
+TargetA
+text
+Sends civilians to this flag
+ 2000 
+
+
+False
+False
+False
+TargetB
+text
+Sends civilians to this flag
+ 2000 
+
+
+False
+False
+False
+TargetC
+text
+Sends civilians to this flag
+ 2000 
+Civillian
+These are models that just wander around and get in the way
+ 5 
+
+
+False
+False
+False
+Name
+text
+
+ 2000 
+Angle
+1
+False
+False
+False
+Angle
+slider
+
+ 2000 
+
+8421376
+False
+False
+False
+Colour
+colour
+
+ 2000 
+
+
+False
+False
+False
+Target
+text
+The name of a cavilian flag to move to
+ 2000 
+Rowing Boat|Helicopter|Cruise boat
+1
+False
+False
+False
+Model
+combo
+
+ 2000 
+Camara
+This entity sets the position of a camara. Games can view the level using these details
+ 10 
+
+
+False
+False
+False
+Name
+text
+
+ 2000 
+200|1000
+800
+False
+False
+False
+Zeye
+slider
+"When high, gives a zoom in effect. When low, gives a fish eye effect"
+ 2000 
+Fixed|Tracker|Pan
+1
+False
+False
+False
+Function
+combo
+Sets how the camara behaves
+ 2000 
+
+
+False
+False
+False
+Target
+text
+The name of the entity to be tracked
+ 2000 
+
+
+False
+False
+False
+Owner
+text
+The name of an entity that this camara will follow
+ 2000 
+Angle
+
+False
+True
+False
+Pitch
+slider
+Angle tilted forward
+ 2000 
+Angle
+
+False
+False
+False
+Yaw
+slider
+Angle turned to the left
+ 2000 
+Angle
+
+False
+False
+False
+Roll
+slider
+Angle leaning to the left
+ 2000 
+Angle
+
+False
+False
+True
+Pan between
+slider
+
+ 2000 
+Angle
+
+False
+False
+False
+and
+slider
+
+ 2000 
+Light
+This entity defines a light source to create shadows and light effects
+ 8 
+
+
+False
+False
+False
+Name
+text
+The name used to identify this light source
+ 2000 
+
+1
+False
+False
+False
+Start On
+tick
+Sets the light source to start on in the game
+ 2000 
+
+16777215
+False
+False
+False
+Colour
+colour
+The colour of this light
+ 2000 
+0|100
+50
+False
+False
+False
+Light Level
+slider
+The brighness of this light
+ 2000 
+
+
+False
+False
+True
+On
+editcombo
+The style of this light when its on
+ 6000 
+
+
+False
+False
+False
+Turn On
+editcombo
+The style of this light when it turns on
+ 6000 
+
+
+False
+False
+False
+Turn Off
+editcombo
+The style of this light when it turns off
+ 6000 
+
+
+False
+False
+False
+Off
+editcombo
+The style of this light when its off
+ 6000 
+Building
+This entity is just an object used to make levels more interesting
+ 4 
+
+
+False
+False
+False
+Name
+text
+A name used to identify this entity
+ 2000 
+Angle
+
+False
+False
+False
+Angle
+slider
+The angle this object faces
+ 2000 
+
+65280
+False
+False
+False
+Colour
+colour
+The colour of this building
+ 2000 
+Tower|Shed|Windmil|Sunk Boat|Cruise Ship
+1
+False
+False
+False
+Model
+combo
+The type of building ths is
+ 2000 
+Player Start
+This entity sets a location for players to start from, within a game
+ 8 
+
+
+False
+False
+False
+Name
+text
+The name that identifies this start location
+ 2000 
+Angle
+
+False
+False
+False
+Angle
+slider
+The angle that players at this location start in
+ 2000 
+0|20
+0
+False
+False
+False
+Head Start
+slider
+The number of seconds that a player from this start is invinsible for
+ 2000 
+None|Health|Ammo|Shotgun|Machine Gun|Speed|Invisibility|Shields|Smart Ammo
+1
+False
+True
+False
+Bonus Item
+combo
+Gives a bonus item to players at this start
+ 2000 
+0|10
+5
+False
+False
+False
+Generosity
+slider
+Sets how often bonuses are given at this location
+ 2000 
+
+
+False
+False
+False
+Target
+text
+A entity name raised whenever this location is used
+ 2000 
+3
+
+False
+False
+True
+Message
+text
+A message displayed to the player when using this location
+ 6000 
+2
+This entity is not the normal thing that you would be seeing on your way to work. However, some times this can be useful. You know what I mean
+False
+False
+False
+Help
+help
+
+ 6000 

@@ -1,0 +1,3044 @@
+MD_NT: 1 
+
+MD_NT: 1 
+MD_FP: C:\WINDOWS\Desktop\Animation Shop 8.3\Samples\SeaPlane.Am8
+LY_LK: Main
+LY_LN: Main
+LY_CL:  0 
+LY_GR: False
+LY_HD: False
+LY_LL: False
+LY_SL: True
+JTCNT:  0 
+OBCNT:  9 
+OBNEW: Loaded0
+OB_CL:  0 
+OB_DF:  0 
+OB_TC:  0 
+OB_TM:  0 
+OB_GN:  0 
+OB_TX: 
+OB_LY: Main
+OB_LK: False
+OB_HD: False
+OB_GY: False
+OB_VT:False
+
+ 250 
+-10 
+-45 
+OB_VT:False
+
+ 240 
+-10 
+-45 
+OB_VT:False
+
+ 240 
+-60 
+-45 
+OB_VT:False
+
+ 250 
+-60 
+-45 
+OB_VT:False
+
+ 250 
+-60 
+-35 
+OB_VT:False
+
+ 240 
+-60 
+-35 
+OB_VT:False
+
+ 240 
+-10 
+-35 
+OB_VT:False
+
+ 250 
+-10 
+-35 
+OB_VT:False
+
+ 250 
+ 50 
+-45 
+OB_VT:False
+
+ 240 
+ 50 
+-45 
+OB_VT:False
+
+ 240 
+ 0 
+-45 
+OB_VT:False
+
+ 250 
+ 0 
+-45 
+OB_VT:False
+
+ 250 
+ 0 
+-35 
+OB_VT:False
+
+ 240 
+ 0 
+-35 
+OB_VT:False
+
+ 240 
+ 50 
+-35 
+OB_VT:False
+
+ 250 
+ 50 
+-35 
+OB_VT:False
+
+ 300 
+ 0 
+-45 
+OB_VT:False
+
+ 190 
+ 0 
+-45 
+OB_VT:False
+
+ 190 
+-10 
+-45 
+OB_VT:False
+
+ 300 
+-10 
+-45 
+OB_VT:False
+
+ 300 
+-10 
+-35 
+OB_VT:False
+
+ 190 
+-10 
+-35 
+OB_VT:False
+
+ 190 
+ 0 
+-35 
+OB_VT:False
+
+ 300 
+ 0 
+-35 
+OB2FC: 4 
+ 1 
+ 0 
+ 2 
+ 0 
+ 3 
+ 0 
+ 4 
+ 0 
+OB2FC: 4 
+ 5 
+ 0 
+ 6 
+ 0 
+ 7 
+ 0 
+ 8 
+ 0 
+OB2FC: 4 
+ 6 
+ 0 
+ 5 
+ 0 
+ 4 
+ 0 
+ 3 
+ 0 
+OB2FC: 4 
+ 1 
+ 0 
+ 4 
+ 0 
+ 5 
+ 0 
+ 8 
+ 0 
+OB2FC: 4 
+ 7 
+ 0 
+ 6 
+ 0 
+ 3 
+ 0 
+ 2 
+ 0 
+OB2FC: 4 
+ 9 
+ 0 
+ 10 
+ 0 
+ 11 
+ 0 
+ 12 
+ 0 
+OB2FC: 4 
+ 13 
+ 0 
+ 14 
+ 0 
+ 15 
+ 0 
+ 16 
+ 0 
+OB2FC: 4 
+ 16 
+ 0 
+ 15 
+ 0 
+ 10 
+ 0 
+ 9 
+ 0 
+OB2FC: 4 
+ 9 
+ 0 
+ 12 
+ 0 
+ 13 
+ 0 
+ 16 
+ 0 
+OB2FC: 4 
+ 15 
+ 0 
+ 14 
+ 0 
+ 11 
+ 0 
+ 10 
+ 0 
+OB2FC: 4 
+ 17 
+ 0 
+ 18 
+ 0 
+ 19 
+ 0 
+ 20 
+ 0 
+OB2FC: 4 
+ 21 
+ 0 
+ 22 
+ 0 
+ 23 
+ 0 
+ 24 
+ 0 
+OB2FC: 4 
+ 24 
+ 0 
+ 23 
+ 0 
+ 18 
+ 0 
+ 17 
+ 0 
+OB2FC: 4 
+ 22 
+ 0 
+ 21 
+ 0 
+ 20 
+ 0 
+ 19 
+ 0 
+OB2FC: 4 
+ 17 
+ 0 
+ 20 
+ 0 
+ 21 
+ 0 
+ 24 
+ 0 
+OB2FC: 4 
+ 23 
+ 0 
+ 22 
+ 0 
+ 19 
+ 0 
+ 18 
+ 0 
+OBNEW: Loaded2
+OB_CL:  0 
+OB_DF:  0 
+OB_TC:  0 
+OB_TM:  0 
+OB_GN:  0 
+OB_TX: 
+OB_LY: Main
+OB_LK: False
+OB_HD: False
+OB_GY: False
+OB_VT:False
+
+ 120 
+ 97 
+-80 
+OB_VT:False
+
+ 70 
+ 97 
+-80 
+OB_VT:False
+
+ 70 
+ 97 
+ 120 
+OB_VT:False
+
+ 120 
+ 97 
+ 120 
+OB_VT:False
+
+ 70 
+ 147 
+-80 
+OB_VT:False
+
+ 120 
+ 147 
+-80 
+OB_VT:False
+
+ 120 
+ 147 
+ 120 
+OB_VT:False
+
+ 70 
+ 147 
+ 120 
+OB_VT:False
+
+ 114 
+ 141 
+ 139 
+OB_VT:False
+
+ 76 
+ 141 
+ 139 
+OB_VT:False
+
+ 76 
+ 103 
+ 139 
+OB_VT:False
+
+ 114 
+ 103 
+ 139 
+OB_VT:False
+
+ 114 
+ 103 
+-99 
+OB_VT:False
+
+ 76 
+ 103 
+-99 
+OB_VT:False
+
+ 76 
+ 141 
+-99 
+OB_VT:False
+
+ 114 
+ 141 
+-99 
+OB_VT:False
+
+ 95 
+ 122 
+-130 
+OB_VT:False
+
+ 95 
+ 122 
+ 170 
+OB_VT:False
+
+-72 
+ 97 
+-80 
+OB_VT:False
+
+-122 
+ 97 
+-80 
+OB_VT:False
+
+-122 
+ 97 
+ 120 
+OB_VT:False
+
+-72 
+ 97 
+ 120 
+OB_VT:False
+
+-122 
+ 147 
+-80 
+OB_VT:False
+
+-72 
+ 147 
+-80 
+OB_VT:False
+
+-72 
+ 147 
+ 120 
+OB_VT:False
+
+-122 
+ 147 
+ 120 
+OB_VT:False
+
+-78 
+ 141 
+ 139 
+OB_VT:False
+
+-116 
+ 141 
+ 139 
+OB_VT:False
+
+-116 
+ 103 
+ 139 
+OB_VT:False
+
+-78 
+ 103 
+ 139 
+OB_VT:False
+
+-78 
+ 103 
+-99 
+OB_VT:False
+
+-116 
+ 103 
+-99 
+OB_VT:False
+
+-116 
+ 141 
+-99 
+OB_VT:False
+
+-78 
+ 141 
+-99 
+OB_VT:False
+
+-97 
+ 122 
+-130 
+OB_VT:False
+
+-97 
+ 122 
+ 170 
+OB2FC: 4 
+ 1 
+ 0 
+ 2 
+ 0 
+ 3 
+ 0 
+ 4 
+ 0 
+OB2FC: 4 
+ 5 
+ 0 
+ 6 
+ 0 
+ 7 
+ 0 
+ 8 
+ 0 
+OB2FC: 4 
+ 4 
+ 0 
+ 7 
+ 0 
+ 6 
+ 0 
+ 1 
+ 0 
+OB2FC: 4 
+ 2 
+ 0 
+ 5 
+ 0 
+ 8 
+ 0 
+ 3 
+ 0 
+OB2FC: 4 
+ 9 
+ 0 
+ 10 
+ 0 
+ 8 
+ 0 
+ 7 
+ 0 
+OB2FC: 4 
+ 10 
+ 0 
+ 11 
+ 0 
+ 3 
+ 0 
+ 8 
+ 0 
+OB2FC: 4 
+ 11 
+ 0 
+ 12 
+ 0 
+ 4 
+ 0 
+ 3 
+ 0 
+OB2FC: 4 
+ 12 
+ 0 
+ 9 
+ 0 
+ 7 
+ 0 
+ 4 
+ 0 
+OB2FC: 4 
+ 13 
+ 0 
+ 14 
+ 0 
+ 2 
+ 0 
+ 1 
+ 0 
+OB2FC: 4 
+ 14 
+ 0 
+ 15 
+ 0 
+ 5 
+ 0 
+ 2 
+ 0 
+OB2FC: 4 
+ 15 
+ 0 
+ 16 
+ 0 
+ 6 
+ 0 
+ 5 
+ 0 
+OB2FC: 4 
+ 16 
+ 0 
+ 13 
+ 0 
+ 1 
+ 0 
+ 6 
+ 0 
+OB2FC: 3 
+ 17 
+ 0 
+ 14 
+ 0 
+ 13 
+ 0 
+OB2FC: 3 
+ 17 
+ 0 
+ 15 
+ 0 
+ 14 
+ 0 
+OB2FC: 3 
+ 17 
+ 0 
+ 16 
+ 0 
+ 15 
+ 0 
+OB2FC: 3 
+ 17 
+ 0 
+ 13 
+ 0 
+ 16 
+ 0 
+OB2FC: 3 
+ 18 
+ 0 
+ 10 
+ 0 
+ 9 
+ 0 
+OB2FC: 3 
+ 18 
+ 0 
+ 11 
+ 0 
+ 10 
+ 0 
+OB2FC: 3 
+ 18 
+ 0 
+ 12 
+ 0 
+ 11 
+ 0 
+OB2FC: 3 
+ 18 
+ 0 
+ 9 
+ 0 
+ 12 
+ 0 
+OB2FC: 4 
+ 19 
+ 0 
+ 20 
+ 0 
+ 21 
+ 0 
+ 22 
+ 0 
+OB2FC: 4 
+ 23 
+ 0 
+ 24 
+ 0 
+ 25 
+ 0 
+ 26 
+ 0 
+OB2FC: 4 
+ 22 
+ 0 
+ 25 
+ 0 
+ 24 
+ 0 
+ 19 
+ 0 
+OB2FC: 4 
+ 20 
+ 0 
+ 23 
+ 0 
+ 26 
+ 0 
+ 21 
+ 0 
+OB2FC: 4 
+ 27 
+ 0 
+ 28 
+ 0 
+ 26 
+ 0 
+ 25 
+ 0 
+OB2FC: 4 
+ 28 
+ 0 
+ 29 
+ 0 
+ 21 
+ 0 
+ 26 
+ 0 
+OB2FC: 4 
+ 29 
+ 0 
+ 30 
+ 0 
+ 22 
+ 0 
+ 21 
+ 0 
+OB2FC: 4 
+ 30 
+ 0 
+ 27 
+ 0 
+ 25 
+ 0 
+ 22 
+ 0 
+OB2FC: 4 
+ 31 
+ 0 
+ 32 
+ 0 
+ 20 
+ 0 
+ 19 
+ 0 
+OB2FC: 4 
+ 32 
+ 0 
+ 33 
+ 0 
+ 23 
+ 0 
+ 20 
+ 0 
+OB2FC: 4 
+ 33 
+ 0 
+ 34 
+ 0 
+ 24 
+ 0 
+ 23 
+ 0 
+OB2FC: 4 
+ 34 
+ 0 
+ 31 
+ 0 
+ 19 
+ 0 
+ 24 
+ 0 
+OB2FC: 3 
+ 35 
+ 0 
+ 32 
+ 0 
+ 31 
+ 0 
+OB2FC: 3 
+ 35 
+ 0 
+ 33 
+ 0 
+ 32 
+ 0 
+OB2FC: 3 
+ 35 
+ 0 
+ 34 
+ 0 
+ 33 
+ 0 
+OB2FC: 3 
+ 35 
+ 0 
+ 31 
+ 0 
+ 34 
+ 0 
+OB2FC: 3 
+ 36 
+ 0 
+ 28 
+ 0 
+ 27 
+ 0 
+OB2FC: 3 
+ 36 
+ 0 
+ 29 
+ 0 
+ 28 
+ 0 
+OB2FC: 3 
+ 36 
+ 0 
+ 30 
+ 0 
+ 29 
+ 0 
+OB2FC: 3 
+ 36 
+ 0 
+ 27 
+ 0 
+ 30 
+ 0 
+OBNEW: Loaded3
+OB_CL:  0 
+OB_DF:  0 
+OB_TC:  0 
+OB_TM:  0 
+OB_GN:  0 
+OB_TX: 
+OB_LY: Main
+OB_LK: False
+OB_HD: False
+OB_GY: False
+OB_VT:False
+
+-80 
+ 97 
+ 40 
+OB_VT:False
+
+-100 
+ 97 
+ 40 
+OB_VT:False
+
+-50 
+ 17 
+ 40 
+OB_VT:False
+
+-50 
+ 47 
+ 40 
+OB_VT:False
+
+-50 
+ 47 
+ 70 
+OB_VT:False
+
+-50 
+ 17 
+ 70 
+OB_VT:False
+
+-100 
+ 97 
+ 70 
+OB_VT:False
+
+-80 
+ 97 
+ 70 
+OB_VT:False
+
+-80 
+ 97 
+-50 
+OB_VT:False
+
+-100 
+ 97 
+-50 
+OB_VT:False
+
+-50 
+ 17 
+-50 
+OB_VT:False
+
+-50 
+ 47 
+-50 
+OB_VT:False
+
+-50 
+ 47 
+-20 
+OB_VT:False
+
+-50 
+ 17 
+-20 
+OB_VT:False
+
+-100 
+ 97 
+-20 
+OB_VT:False
+
+-80 
+ 97 
+-20 
+OB_VT:False
+
+ 50 
+ 47 
+ 40 
+OB_VT:False
+
+ 50 
+ 17 
+ 40 
+OB_VT:False
+
+ 100 
+ 97 
+ 40 
+OB_VT:False
+
+ 80 
+ 97 
+ 40 
+OB_VT:False
+
+ 80 
+ 97 
+ 70 
+OB_VT:False
+
+ 100 
+ 97 
+ 70 
+OB_VT:False
+
+ 50 
+ 17 
+ 70 
+OB_VT:False
+
+ 50 
+ 47 
+ 70 
+OB_VT:False
+
+ 50 
+ 47 
+-50 
+OB_VT:False
+
+ 50 
+ 17 
+-50 
+OB_VT:False
+
+ 100 
+ 97 
+-50 
+OB_VT:False
+
+ 80 
+ 97 
+-50 
+OB_VT:False
+
+ 80 
+ 97 
+-20 
+OB_VT:False
+
+ 100 
+ 97 
+-20 
+OB_VT:False
+
+ 50 
+ 17 
+-20 
+OB_VT:False
+
+ 50 
+ 47 
+-20 
+OB2FC: 4 
+ 1 
+ 0 
+ 2 
+ 0 
+ 3 
+ 0 
+ 4 
+ 0 
+OB2FC: 4 
+ 5 
+ 0 
+ 6 
+ 0 
+ 7 
+ 0 
+ 8 
+ 0 
+OB2FC: 4 
+ 1 
+ 0 
+ 4 
+ 0 
+ 5 
+ 0 
+ 8 
+ 0 
+OB2FC: 4 
+ 7 
+ 0 
+ 6 
+ 0 
+ 3 
+ 0 
+ 2 
+ 0 
+OB2FC: 4 
+ 9 
+ 0 
+ 10 
+ 0 
+ 11 
+ 0 
+ 12 
+ 0 
+OB2FC: 4 
+ 13 
+ 0 
+ 14 
+ 0 
+ 15 
+ 0 
+ 16 
+ 0 
+OB2FC: 4 
+ 9 
+ 0 
+ 12 
+ 0 
+ 13 
+ 0 
+ 16 
+ 0 
+OB2FC: 4 
+ 15 
+ 0 
+ 14 
+ 0 
+ 11 
+ 0 
+ 10 
+ 0 
+OB2FC: 4 
+ 17 
+ 0 
+ 18 
+ 0 
+ 19 
+ 0 
+ 20 
+ 0 
+OB2FC: 4 
+ 21 
+ 0 
+ 22 
+ 0 
+ 23 
+ 0 
+ 24 
+ 0 
+OB2FC: 4 
+ 21 
+ 0 
+ 24 
+ 0 
+ 17 
+ 0 
+ 20 
+ 0 
+OB2FC: 4 
+ 19 
+ 0 
+ 18 
+ 0 
+ 23 
+ 0 
+ 22 
+ 0 
+OB2FC: 4 
+ 25 
+ 0 
+ 26 
+ 0 
+ 27 
+ 0 
+ 28 
+ 0 
+OB2FC: 4 
+ 29 
+ 0 
+ 30 
+ 0 
+ 31 
+ 0 
+ 32 
+ 0 
+OB2FC: 4 
+ 29 
+ 0 
+ 32 
+ 0 
+ 25 
+ 0 
+ 28 
+ 0 
+OB2FC: 4 
+ 27 
+ 0 
+ 26 
+ 0 
+ 31 
+ 0 
+ 30 
+ 0 
+OBNEW: Loaded4
+OB_CL:  0 
+OB_DF:  0 
+OB_TC:  0 
+OB_TM:  0 
+OB_GN:  0 
+OB_TX: 
+OB_LY: Main
+OB_LK: False
+OB_HD: False
+OB_GY: False
+OB_VT:False
+
+ 50 
+ 47 
+ 158 
+OB_VT:False
+
+-50 
+ 47 
+ 158 
+OB_VT:False
+
+-50 
+ 47 
+-92 
+OB_VT:False
+
+ 50 
+ 47 
+-92 
+OB_VT:False
+
+-50 
+-43 
+ 158 
+OB_VT:False
+
+ 50 
+-43 
+ 158 
+OB_VT:False
+
+ 50 
+-43 
+-92 
+OB_VT:False
+
+-50 
+-43 
+-92 
+OB_VT:False
+
+-40 
+-43 
+ 198 
+OB_VT:False
+
+ 40 
+-43 
+ 198 
+OB_VT:False
+
+-40 
+ 37 
+ 198 
+OB_VT:False
+
+ 40 
+ 37 
+ 198 
+OB_VT:False
+
+-20 
+-43 
+ 248 
+OB_VT:False
+
+ 20 
+-43 
+ 248 
+OB_VT:False
+
+-20 
+ 17 
+ 248 
+OB_VT:False
+
+ 20 
+ 17 
+ 248 
+OB_VT:False
+
+-10 
+-53 
+ 298 
+OB_VT:False
+
+ 10 
+-53 
+ 298 
+OB_VT:False
+
+-10 
+-3 
+ 328 
+OB_VT:False
+
+ 10 
+-3 
+ 328 
+OB_VT:False
+
+-10 
+-13 
+ 348 
+OB_VT:False
+
+-10 
+-33 
+ 358 
+OB_VT:False
+
+ 10 
+-13 
+ 348 
+OB_VT:False
+
+ 10 
+-33 
+ 358 
+OB_VT:False
+
+-10 
+-83 
+ 308 
+OB_VT:False
+
+ 10 
+-83 
+ 308 
+OB_VT:False
+
+-10 
+-83 
+ 368 
+OB_VT:False
+
+ 10 
+-83 
+ 368 
+OB_VT:False
+
+-10 
+-103 
+ 328 
+OB_VT:False
+
+ 10 
+-103 
+ 328 
+OB_VT:False
+
+-10 
+-103 
+ 368 
+OB_VT:False
+
+ 10 
+-103 
+ 368 
+OB_VT:False
+
+ 50 
+-13 
+-122 
+OB_VT:False
+
+-50 
+-13 
+-122 
+OB_VT:False
+
+-50 
+ 47 
+-122 
+OB_VT:False
+
+ 50 
+ 47 
+-122 
+OB_VT:False
+
+ 30 
+-3 
+-162 
+OB_VT:False
+
+-30 
+-3 
+-162 
+OB_VT:False
+
+-30 
+ 37 
+-162 
+OB_VT:False
+
+ 30 
+ 37 
+-162 
+OB_VT:False
+
+ 10 
+ 7 
+-172 
+OB_VT:False
+
+-10 
+ 7 
+-172 
+OB_VT:False
+
+-10 
+ 17 
+-172 
+OB_VT:False
+
+ 10 
+ 17 
+-172 
+OB_VT:False
+
+-90 
+-23 
+ 361 
+OB_VT:False
+
+-10 
+-23 
+ 351 
+OB_VT:False
+
+-10 
+-33 
+ 351 
+OB_VT:False
+
+-90 
+-33 
+ 361 
+OB_VT:False
+
+-80 
+-33 
+ 311 
+OB_VT:False
+
+-10 
+-33 
+ 301 
+OB_VT:False
+
+-10 
+-23 
+ 301 
+OB_VT:False
+
+-80 
+-23 
+ 311 
+OB_VT:False
+
+ 90 
+-33 
+ 361 
+OB_VT:False
+
+ 10 
+-33 
+ 351 
+OB_VT:False
+
+ 10 
+-23 
+ 351 
+OB_VT:False
+
+ 90 
+-23 
+ 361 
+OB_VT:False
+
+ 80 
+-23 
+ 311 
+OB_VT:False
+
+ 10 
+-23 
+ 301 
+OB_VT:False
+
+ 10 
+-33 
+ 301 
+OB_VT:False
+
+ 80 
+-33 
+ 311 
+OB2FC: 4 
+ 1 
+ 0 
+ 2 
+ 0 
+ 3 
+ 0 
+ 4 
+ 0 
+OB2FC: 4 
+ 5 
+ 0 
+ 6 
+ 0 
+ 7 
+ 0 
+ 8 
+ 0 
+OB2FC: 4 
+ 4 
+ 0 
+ 7 
+ 0 
+ 6 
+ 0 
+ 1 
+ 0 
+OB2FC: 4 
+ 2 
+ 0 
+ 5 
+ 0 
+ 8 
+ 0 
+ 3 
+ 0 
+OB2FC: 4 
+ 6 
+ 0 
+ 5 
+ 0 
+ 9 
+ 0 
+ 10 
+ 0 
+OB2FC: 4 
+ 5 
+ 0 
+ 2 
+ 0 
+ 11 
+ 0 
+ 9 
+ 0 
+OB2FC: 4 
+ 2 
+ 0 
+ 1 
+ 0 
+ 12 
+ 0 
+ 11 
+ 0 
+OB2FC: 4 
+ 1 
+ 0 
+ 6 
+ 0 
+ 10 
+ 0 
+ 12 
+ 0 
+OB2FC: 4 
+ 10 
+ 0 
+ 9 
+ 0 
+ 13 
+ 0 
+ 14 
+ 0 
+OB2FC: 4 
+ 9 
+ 0 
+ 11 
+ 0 
+ 15 
+ 0 
+ 13 
+ 0 
+OB2FC: 4 
+ 11 
+ 0 
+ 12 
+ 0 
+ 16 
+ 0 
+ 15 
+ 0 
+OB2FC: 4 
+ 12 
+ 0 
+ 10 
+ 0 
+ 14 
+ 0 
+ 16 
+ 0 
+OB2FC: 4 
+ 14 
+ 0 
+ 13 
+ 0 
+ 17 
+ 0 
+ 18 
+ 0 
+OB2FC: 4 
+ 13 
+ 0 
+ 15 
+ 0 
+ 19 
+ 0 
+ 17 
+ 0 
+OB2FC: 4 
+ 15 
+ 0 
+ 16 
+ 0 
+ 20 
+ 0 
+ 19 
+ 0 
+OB2FC: 4 
+ 16 
+ 0 
+ 14 
+ 0 
+ 18 
+ 0 
+ 20 
+ 0 
+OB2FC: 4 
+ 17 
+ 0 
+ 19 
+ 0 
+ 21 
+ 0 
+ 22 
+ 0 
+OB2FC: 4 
+ 19 
+ 0 
+ 20 
+ 0 
+ 23 
+ 0 
+ 21 
+ 0 
+OB2FC: 4 
+ 20 
+ 0 
+ 18 
+ 0 
+ 24 
+ 0 
+ 23 
+ 0 
+OB2FC: 4 
+ 24 
+ 0 
+ 22 
+ 0 
+ 21 
+ 0 
+ 23 
+ 0 
+OB2FC: 4 
+ 18 
+ 0 
+ 17 
+ 0 
+ 25 
+ 0 
+ 26 
+ 0 
+OB2FC: 4 
+ 17 
+ 0 
+ 22 
+ 0 
+ 27 
+ 0 
+ 25 
+ 0 
+OB2FC: 4 
+ 22 
+ 0 
+ 24 
+ 0 
+ 28 
+ 0 
+ 27 
+ 0 
+OB2FC: 4 
+ 24 
+ 0 
+ 18 
+ 0 
+ 26 
+ 0 
+ 28 
+ 0 
+OB2FC: 4 
+ 26 
+ 0 
+ 25 
+ 0 
+ 29 
+ 0 
+ 30 
+ 0 
+OB2FC: 4 
+ 25 
+ 0 
+ 27 
+ 0 
+ 31 
+ 0 
+ 29 
+ 0 
+OB2FC: 4 
+ 27 
+ 0 
+ 28 
+ 0 
+ 32 
+ 0 
+ 31 
+ 0 
+OB2FC: 4 
+ 28 
+ 0 
+ 26 
+ 0 
+ 30 
+ 0 
+ 32 
+ 0 
+OB2FC: 4 
+ 30 
+ 0 
+ 29 
+ 0 
+ 31 
+ 0 
+ 32 
+ 0 
+OB2FC: 4 
+ 33 
+ 0 
+ 34 
+ 0 
+ 8 
+ 0 
+ 7 
+ 0 
+OB2FC: 4 
+ 34 
+ 0 
+ 35 
+ 0 
+ 3 
+ 0 
+ 8 
+ 0 
+OB2FC: 4 
+ 35 
+ 0 
+ 36 
+ 0 
+ 4 
+ 0 
+ 3 
+ 0 
+OB2FC: 4 
+ 36 
+ 0 
+ 33 
+ 0 
+ 7 
+ 0 
+ 4 
+ 0 
+OB2FC: 4 
+ 37 
+ 0 
+ 38 
+ 0 
+ 34 
+ 0 
+ 33 
+ 0 
+OB2FC: 4 
+ 38 
+ 0 
+ 39 
+ 0 
+ 35 
+ 0 
+ 34 
+ 0 
+OB2FC: 4 
+ 39 
+ 0 
+ 40 
+ 0 
+ 36 
+ 0 
+ 35 
+ 0 
+OB2FC: 4 
+ 40 
+ 0 
+ 37 
+ 0 
+ 33 
+ 0 
+ 36 
+ 0 
+OB2FC: 4 
+ 41 
+ 0 
+ 42 
+ 0 
+ 38 
+ 0 
+ 37 
+ 0 
+OB2FC: 4 
+ 42 
+ 0 
+ 43 
+ 0 
+ 39 
+ 0 
+ 38 
+ 0 
+OB2FC: 4 
+ 43 
+ 0 
+ 44 
+ 0 
+ 40 
+ 0 
+ 39 
+ 0 
+OB2FC: 4 
+ 44 
+ 0 
+ 41 
+ 0 
+ 37 
+ 0 
+ 40 
+ 0 
+OB2FC: 4 
+ 44 
+ 0 
+ 43 
+ 0 
+ 42 
+ 0 
+ 41 
+ 0 
+OB2FC: 4 
+ 45 
+ 0 
+ 46 
+ 0 
+ 47 
+ 0 
+ 48 
+ 0 
+OB2FC: 4 
+ 49 
+ 0 
+ 50 
+ 0 
+ 51 
+ 0 
+ 52 
+ 0 
+OB2FC: 4 
+ 52 
+ 0 
+ 51 
+ 0 
+ 46 
+ 0 
+ 45 
+ 0 
+OB2FC: 4 
+ 50 
+ 0 
+ 49 
+ 0 
+ 48 
+ 0 
+ 47 
+ 0 
+OB2FC: 4 
+ 45 
+ 0 
+ 48 
+ 0 
+ 49 
+ 0 
+ 52 
+ 0 
+OB2FC: 4 
+ 53 
+ 0 
+ 54 
+ 0 
+ 55 
+ 0 
+ 56 
+ 0 
+OB2FC: 4 
+ 57 
+ 0 
+ 58 
+ 0 
+ 59 
+ 0 
+ 60 
+ 0 
+OB2FC: 4 
+ 56 
+ 0 
+ 55 
+ 0 
+ 58 
+ 0 
+ 57 
+ 0 
+OB2FC: 4 
+ 54 
+ 0 
+ 53 
+ 0 
+ 60 
+ 0 
+ 59 
+ 0 
+OB2FC: 4 
+ 57 
+ 0 
+ 60 
+ 0 
+ 53 
+ 0 
+ 56 
+ 0 
+OBNEW: Custom49168.470.4140327
+OB_CL:  0 
+OB_DF:  0 
+OB_TC:  0 
+OB_TM:  0 
+OB_GN:  0 
+OB_TX: 
+OB_LY: Main
+OB_LK: False
+OB_HD: False
+OB_GY: False
+OB_TV:False
+ 0 
+ 200 
+OB_TV:False
+ 0 
+ 300 
+OB_TV:False
+ 100 
+ 0 
+OB_TV:False
+ 100 
+ 100 
+OB_TV:False
+ 100 
+ 200 
+OB_TV:False
+ 100 
+ 300 
+OB_TV:False
+ 100 
+ 400 
+OB_TV:False
+ 200 
+ 0 
+OB_TV:False
+ 200 
+ 100 
+OB_TV:False
+ 200 
+ 200 
+OB_TV:False
+ 200 
+ 300 
+OB_TV:False
+ 200 
+ 400 
+OB_TV:False
+ 300 
+ 200 
+OB_TV:False
+ 300 
+ 300 
+OB_VT:False
+
+ 50 
+-40 
+ 70 
+OB_VT:False
+
+ 460 
+-40 
+ 110 
+OB_VT:False
+
+ 460 
+-30 
+ 110 
+OB_VT:False
+
+ 50 
+-30 
+ 70 
+OB_VT:False
+
+ 50 
+-40 
+-50 
+OB_VT:False
+
+ 460 
+-40 
+ 20 
+OB_VT:False
+
+ 460 
+-30 
+ 20 
+OB_VT:False
+
+ 50 
+-30 
+-50 
+OB2FC: 4 
+ 4 
+ 1 
+ 3 
+ 2 
+ 2 
+ 6 
+ 1 
+ 5 
+OB2FC: 4 
+ 5 
+ 3 
+ 6 
+ 4 
+ 7 
+ 9 
+ 8 
+ 8 
+OB2FC: 4 
+ 3 
+ 4 
+ 4 
+ 5 
+ 8 
+ 10 
+ 7 
+ 9 
+OB2FC: 4 
+ 1 
+ 5 
+ 2 
+ 6 
+ 6 
+ 11 
+ 5 
+ 10 
+OB2FC: 4 
+ 2 
+ 6 
+ 3 
+ 7 
+ 7 
+ 12 
+ 6 
+ 11 
+OB2FC: 4 
+ 5 
+ 10 
+ 8 
+ 11 
+ 4 
+ 14 
+ 1 
+ 13 
+OBNEW: Custom49211.860.8626193
+OB_CL:  0 
+OB_DF:  0 
+OB_TC:  0 
+OB_TM:  0 
+OB_GN:  0 
+OB_TX: 
+OB_LY: Main
+OB_LK: False
+OB_HD: False
+OB_GY: False
+OB_TV:False
+ 0 
+ 0 
+OB_TV:False
+ 10 
+ 0 
+OB_TV:False
+ 10 
+ 10 
+OB_TV:False
+ 0 
+ 10 
+OB_TV:False
+ 7 
+ 0 
+OB_TV:False
+ 2 
+ 4 
+OB_TV:False
+ 0 
+ 10 
+OB_TV:False
+ 2 
+ 16 
+OB_TV:False
+ 7 
+ 20 
+OB_TV:False
+ 13 
+ 19 
+OB_TV:False
+ 18 
+ 16 
+OB_TV:False
+ 20 
+ 10 
+OB_TV:False
+ 18 
+ 4 
+OB_TV:False
+ 13 
+ 0 
+OB_VT:False
+
+ 237 
+-30 
+-35 
+OB_VT:False
+
+ 237 
+-30 
+ 115 
+OB_VT:False
+
+ 225 
+-21 
+-35 
+OB_VT:False
+
+ 225 
+-21 
+ 115 
+OB_VT:False
+
+ 220 
+-6 
+-35 
+OB_VT:False
+
+ 220 
+-6 
+ 115 
+OB_VT:False
+
+ 225 
+ 9 
+-35 
+OB_VT:False
+
+ 225 
+ 9 
+ 115 
+OB_VT:False
+
+ 237 
+ 18 
+-35 
+OB_VT:False
+
+ 237 
+ 18 
+ 115 
+OB_VT:False
+
+ 253 
+ 18 
+-35 
+OB_VT:False
+
+ 253 
+ 18 
+ 115 
+OB_VT:False
+
+ 265 
+ 9 
+-35 
+OB_VT:False
+
+ 265 
+ 9 
+ 115 
+OB_VT:False
+
+ 270 
+-6 
+-35 
+OB_VT:False
+
+ 270 
+-6 
+ 115 
+OB_VT:False
+
+ 265 
+-21 
+-35 
+OB_VT:False
+
+ 265 
+-21 
+ 115 
+OB_VT:False
+
+ 253 
+-30 
+-35 
+OB_VT:False
+
+ 253 
+-30 
+ 115 
+OB2FC: 4 
+ 1 
+ 1 
+ 3 
+ 2 
+ 4 
+ 3 
+ 2 
+ 4 
+OB2FC: 4 
+ 3 
+ 1 
+ 5 
+ 2 
+ 6 
+ 3 
+ 4 
+ 4 
+OB2FC: 4 
+ 5 
+ 1 
+ 7 
+ 2 
+ 8 
+ 3 
+ 6 
+ 4 
+OB2FC: 4 
+ 7 
+ 1 
+ 9 
+ 2 
+ 10 
+ 3 
+ 8 
+ 4 
+OB2FC: 4 
+ 9 
+ 1 
+ 11 
+ 2 
+ 12 
+ 3 
+ 10 
+ 4 
+OB2FC: 4 
+ 11 
+ 1 
+ 13 
+ 2 
+ 14 
+ 3 
+ 12 
+ 4 
+OB2FC: 4 
+ 13 
+ 1 
+ 15 
+ 2 
+ 16 
+ 3 
+ 14 
+ 4 
+OB2FC: 4 
+ 15 
+ 1 
+ 17 
+ 2 
+ 18 
+ 3 
+ 16 
+ 4 
+OB2FC: 4 
+ 17 
+ 1 
+ 19 
+ 2 
+ 20 
+ 3 
+ 18 
+ 4 
+OB2FC: 4 
+ 19 
+ 1 
+ 1 
+ 2 
+ 2 
+ 3 
+ 20 
+ 4 
+OB2FC: 10 
+ 2 
+ 5 
+ 4 
+ 6 
+ 6 
+ 7 
+ 8 
+ 8 
+ 10 
+ 9 
+ 12 
+ 10 
+ 14 
+ 11 
+ 16 
+ 12 
+ 18 
+ 13 
+ 20 
+ 14 
+OB2FC: 10 
+ 19 
+ 14 
+ 17 
+ 13 
+ 15 
+ 12 
+ 13 
+ 11 
+ 11 
+ 10 
+ 9 
+ 9 
+ 7 
+ 8 
+ 5 
+ 7 
+ 3 
+ 6 
+ 1 
+ 5 
+OBNEW: Load49284.9710.9619532
+OB_CL:  0 
+OB_DF:  0 
+OB_TC:  0 
+OB_TM:  0 
+OB_GN:  0 
+OB_TX: 
+OB_LY: Main
+OB_LK: False
+OB_HD: False
+OB_GY: False
+OB_VT:False
+
+-250 
+-10 
+-45 
+OB_VT:False
+
+-240 
+-10 
+-45 
+OB_VT:False
+
+-240 
+-60 
+-45 
+OB_VT:False
+
+-250 
+-60 
+-45 
+OB_VT:False
+
+-250 
+-60 
+-35 
+OB_VT:False
+
+-240 
+-60 
+-35 
+OB_VT:False
+
+-240 
+-10 
+-35 
+OB_VT:False
+
+-250 
+-10 
+-35 
+OB_VT:False
+
+-250 
+ 50 
+-45 
+OB_VT:False
+
+-240 
+ 50 
+-45 
+OB_VT:False
+
+-240 
+ 0 
+-45 
+OB_VT:False
+
+-250 
+ 0 
+-45 
+OB_VT:False
+
+-250 
+ 0 
+-35 
+OB_VT:False
+
+-240 
+ 0 
+-35 
+OB_VT:False
+
+-240 
+ 50 
+-35 
+OB_VT:False
+
+-250 
+ 50 
+-35 
+OB_VT:False
+
+-300 
+ 0 
+-45 
+OB_VT:False
+
+-190 
+ 0 
+-45 
+OB_VT:False
+
+-190 
+-10 
+-45 
+OB_VT:False
+
+-300 
+-10 
+-45 
+OB_VT:False
+
+-300 
+-10 
+-35 
+OB_VT:False
+
+-190 
+-10 
+-35 
+OB_VT:False
+
+-190 
+ 0 
+-35 
+OB_VT:False
+
+-300 
+ 0 
+-35 
+OB2FC: 4 
+ 4 
+ 0 
+ 3 
+ 0 
+ 2 
+ 0 
+ 1 
+ 0 
+OB2FC: 4 
+ 8 
+ 0 
+ 7 
+ 0 
+ 6 
+ 0 
+ 5 
+ 0 
+OB2FC: 4 
+ 3 
+ 0 
+ 4 
+ 0 
+ 5 
+ 0 
+ 6 
+ 0 
+OB2FC: 4 
+ 8 
+ 0 
+ 5 
+ 0 
+ 4 
+ 0 
+ 1 
+ 0 
+OB2FC: 4 
+ 2 
+ 0 
+ 3 
+ 0 
+ 6 
+ 0 
+ 7 
+ 0 
+OB2FC: 4 
+ 12 
+ 0 
+ 11 
+ 0 
+ 10 
+ 0 
+ 9 
+ 0 
+OB2FC: 4 
+ 16 
+ 0 
+ 15 
+ 0 
+ 14 
+ 0 
+ 13 
+ 0 
+OB2FC: 4 
+ 9 
+ 0 
+ 10 
+ 0 
+ 15 
+ 0 
+ 16 
+ 0 
+OB2FC: 4 
+ 16 
+ 0 
+ 13 
+ 0 
+ 12 
+ 0 
+ 9 
+ 0 
+OB2FC: 4 
+ 10 
+ 0 
+ 11 
+ 0 
+ 14 
+ 0 
+ 15 
+ 0 
+OB2FC: 4 
+ 20 
+ 0 
+ 19 
+ 0 
+ 18 
+ 0 
+ 17 
+ 0 
+OB2FC: 4 
+ 24 
+ 0 
+ 23 
+ 0 
+ 22 
+ 0 
+ 21 
+ 0 
+OB2FC: 4 
+ 17 
+ 0 
+ 18 
+ 0 
+ 23 
+ 0 
+ 24 
+ 0 
+OB2FC: 4 
+ 19 
+ 0 
+ 20 
+ 0 
+ 21 
+ 0 
+ 22 
+ 0 
+OB2FC: 4 
+ 24 
+ 0 
+ 21 
+ 0 
+ 20 
+ 0 
+ 17 
+ 0 
+OB2FC: 4 
+ 18 
+ 0 
+ 19 
+ 0 
+ 22 
+ 0 
+ 23 
+ 0 
+OBNEW: Load49284.9720.8714458
+OB_CL:  0 
+OB_DF:  0 
+OB_TC:  0 
+OB_TM:  0 
+OB_GN:  0 
+OB_TX: 
+OB_LY: Main
+OB_LK: False
+OB_HD: False
+OB_GY: False
+OB_TV:False
+ 0 
+ 200 
+OB_TV:False
+ 0 
+ 300 
+OB_TV:False
+ 100 
+ 0 
+OB_TV:False
+ 100 
+ 100 
+OB_TV:False
+ 100 
+ 200 
+OB_TV:False
+ 100 
+ 300 
+OB_TV:False
+ 100 
+ 400 
+OB_TV:False
+ 200 
+ 0 
+OB_TV:False
+ 200 
+ 100 
+OB_TV:False
+ 200 
+ 200 
+OB_TV:False
+ 200 
+ 300 
+OB_TV:False
+ 200 
+ 400 
+OB_TV:False
+ 300 
+ 200 
+OB_TV:False
+ 300 
+ 300 
+OB_VT:False
+
+-50 
+-40 
+ 70 
+OB_VT:False
+
+-460 
+-40 
+ 110 
+OB_VT:False
+
+-460 
+-30 
+ 110 
+OB_VT:False
+
+-50 
+-30 
+ 70 
+OB_VT:False
+
+-50 
+-40 
+-50 
+OB_VT:False
+
+-460 
+-40 
+ 20 
+OB_VT:False
+
+-460 
+-30 
+ 20 
+OB_VT:False
+
+-50 
+-30 
+-50 
+OB2FC: 4 
+ 1 
+ 1 
+ 2 
+ 2 
+ 3 
+ 6 
+ 4 
+ 5 
+OB2FC: 4 
+ 8 
+ 3 
+ 7 
+ 4 
+ 6 
+ 9 
+ 5 
+ 8 
+OB2FC: 4 
+ 7 
+ 4 
+ 8 
+ 5 
+ 4 
+ 10 
+ 3 
+ 9 
+OB2FC: 4 
+ 5 
+ 5 
+ 6 
+ 6 
+ 2 
+ 11 
+ 1 
+ 10 
+OB2FC: 4 
+ 6 
+ 6 
+ 7 
+ 7 
+ 3 
+ 12 
+ 2 
+ 11 
+OB2FC: 4 
+ 1 
+ 10 
+ 4 
+ 11 
+ 8 
+ 14 
+ 5 
+ 13 
+OBNEW: Load49284.9735.623686E-02
+OB_CL:  0 
+OB_DF:  0 
+OB_TC:  0 
+OB_TM:  0 
+OB_GN:  0 
+OB_TX: 
+OB_LY: Main
+OB_LK: False
+OB_HD: False
+OB_GY: False
+OB_TV:False
+ 0 
+ 0 
+OB_TV:False
+ 10 
+ 0 
+OB_TV:False
+ 10 
+ 10 
+OB_TV:False
+ 0 
+ 10 
+OB_TV:False
+ 7 
+ 0 
+OB_TV:False
+ 2 
+ 4 
+OB_TV:False
+ 0 
+ 10 
+OB_TV:False
+ 2 
+ 16 
+OB_TV:False
+ 7 
+ 20 
+OB_TV:False
+ 13 
+ 19 
+OB_TV:False
+ 18 
+ 16 
+OB_TV:False
+ 20 
+ 10 
+OB_TV:False
+ 18 
+ 4 
+OB_TV:False
+ 13 
+ 0 
+OB_VT:False
+
+-237 
+-30 
+-35 
+OB_VT:False
+
+-237 
+-30 
+ 115 
+OB_VT:False
+
+-225 
+-21 
+-35 
+OB_VT:False
+
+-225 
+-21 
+ 115 
+OB_VT:False
+
+-220 
+-6 
+-35 
+OB_VT:False
+
+-220 
+-6 
+ 115 
+OB_VT:False
+
+-225 
+ 9 
+-35 
+OB_VT:False
+
+-225 
+ 9 
+ 115 
+OB_VT:False
+
+-237 
+ 18 
+-35 
+OB_VT:False
+
+-237 
+ 18 
+ 115 
+OB_VT:False
+
+-253 
+ 18 
+-35 
+OB_VT:False
+
+-253 
+ 18 
+ 115 
+OB_VT:False
+
+-265 
+ 9 
+-35 
+OB_VT:False
+
+-265 
+ 9 
+ 115 
+OB_VT:False
+
+-270 
+-6 
+-35 
+OB_VT:False
+
+-270 
+-6 
+ 115 
+OB_VT:False
+
+-265 
+-21 
+-35 
+OB_VT:False
+
+-265 
+-21 
+ 115 
+OB_VT:False
+
+-253 
+-30 
+-35 
+OB_VT:False
+
+-253 
+-30 
+ 115 
+OB2FC: 4 
+ 2 
+ 1 
+ 4 
+ 2 
+ 3 
+ 3 
+ 1 
+ 4 
+OB2FC: 4 
+ 4 
+ 1 
+ 6 
+ 2 
+ 5 
+ 3 
+ 3 
+ 4 
+OB2FC: 4 
+ 6 
+ 1 
+ 8 
+ 2 
+ 7 
+ 3 
+ 5 
+ 4 
+OB2FC: 4 
+ 8 
+ 1 
+ 10 
+ 2 
+ 9 
+ 3 
+ 7 
+ 4 
+OB2FC: 4 
+ 10 
+ 1 
+ 12 
+ 2 
+ 11 
+ 3 
+ 9 
+ 4 
+OB2FC: 4 
+ 12 
+ 1 
+ 14 
+ 2 
+ 13 
+ 3 
+ 11 
+ 4 
+OB2FC: 4 
+ 14 
+ 1 
+ 16 
+ 2 
+ 15 
+ 3 
+ 13 
+ 4 
+OB2FC: 4 
+ 16 
+ 1 
+ 18 
+ 2 
+ 17 
+ 3 
+ 15 
+ 4 
+OB2FC: 4 
+ 18 
+ 1 
+ 20 
+ 2 
+ 19 
+ 3 
+ 17 
+ 4 
+OB2FC: 4 
+ 20 
+ 1 
+ 2 
+ 2 
+ 1 
+ 3 
+ 19 
+ 4 
+OB2FC: 10 
+ 20 
+ 5 
+ 18 
+ 6 
+ 16 
+ 7 
+ 14 
+ 8 
+ 12 
+ 9 
+ 10 
+ 10 
+ 8 
+ 11 
+ 6 
+ 12 
+ 4 
+ 13 
+ 2 
+ 14 
+OB2FC: 10 
+ 1 
+ 14 
+ 3 
+ 13 
+ 5 
+ 12 
+ 7 
+ 11 
+ 9 
+ 10 
+ 11 
+ 9 
+ 13 
+ 8 
+ 15 
+ 7 
+ 17 
+ 6 
+ 19 
+ 5 
+OBEND:False
+JTEND:False
+UDTJT: 0 
+AM_QT: 0 

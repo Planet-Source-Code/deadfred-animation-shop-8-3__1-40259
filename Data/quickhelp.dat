@@ -1,0 +1,40 @@
+"Hide and show the sidebar?"
+"The sidebar is the area at the right of the screen, where most of the tools are contained. If this is not there, it is because you have hidden it.
+
+To get it back, select 'Sidebar' from the view menu"
+"Change the current sidebar?"
+"There are many different sidebars in Animation Shop. They change automaticly as you switch screens
+
+When you click on an edit tool on the toolbar, the sidebar changes to show options for that tool
+Some sidebars have too many options to fit on a single page. When this happens, the sidebar will
+be shown with seveal tabs along the top. Each tab accesses one page of the sidebar"
+"Create a new object?"
+"Select Top View, then press the 'Add Object' button from the toolbar ( With a grey cube on it ). Now select the second page on the sidebar.
+
+Drag the mouse across the edit screen to outline the new object. Press the 'Create' button to finish"
+"Make an object bigger?"
+"Press the 'Scale Tool' button (The one with a white square and a dotted outline). Now select the objects to enlarge by clicking on a corner, or dragging the mouse around the whole object.
+
+Finally, press the mouse down over the corner of the selected area, and drag to the required size"
+"Get the best view at what I am working on?"
+"The quickest way to zoom quickly is to use the dropdown list on the 'File' Toolbar to select a required zoom level.
+
+To get the largest view of what you are doing, first select all the objects you want to be able to see, then choose 'Selection' from the dropdown list. This will choose the zoom level best suited for looking at all the objects"
+"Change the colour of an object?"
+"To change the colour, you need to open the surface properties window. Select the object (or a group of objects) to change, and then select 'Surface Editor' from the Tools menu.
+
+Click on the box labeled 'Colour'. A colour selector window will appear, so you can choose a new colour for the object.
+
+The Surface Editor window shows a preview of the settings in the small window on the left of the screen"
+"Create new layers?"
+"Layers a a way of deviding up a model into related groups, which can quickly be hidden or shown to reduce the amount of objects on screen, improving speed and userbility.
+
+All layers are shown at the bottom of the edit window as a row of tabs. Right click on a layer to show the layer menu. The top item allows you to add a new layer"
+"Place objects into a layer?"
+"Select the objects you want to move into a layer, and then right click on the edit window. The bottom item in the Popup menu contains a list of all existing menus.
+
+Select the layer you want to place the objects in from this list"
+"Edit this vertex when it wont let me?"
+"When you have Snap to Grid switched on, you sometimes cannot always select or drag the vertex or face you want.
+
+In these circumstances, turn Snap to grid off while you preform the opperation"
