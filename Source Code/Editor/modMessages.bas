@@ -1,0 +1,97 @@
+Attribute VB_Name = "modMessages"
+Option Explicit
+
+'#########################################################################
+'#                                                                       #
+'#    This module contains only a big list of the different messages     #
+'#  that appear throughout the program. They are all done as constatnts  #
+'#    so that it should save memeory and also make it alot easier to     #
+'#   change message within the program, without having to go and look    #
+'#                 everywhere that the message is used                   #
+'#                                                                       #
+'#########################################################################
+
+
+
+Public Const amRemoveScene = "Are you sure you want to remove this scene?"
+Public Const amNotBaseFrame = "You cannot use this option when the baseframe is selected"
+Public Const amSelectScene = "You must select a frame to do this"
+
+Public Const amMustSelectObject = "You must select an object to use this tool"
+Public Const amMustSelectJoint = "You must select an joint to use this tool"
+Public Const amMustSelectJointOrObject = "You must select an object or joint to use this tool"
+
+
+Public Const amAddToGallary = "The selected objects will be stored in this gallary. Enter a name for this gallary item"
+Public Const amAllLayersHidden = "All layers are hidden, so you wount be able to see any objects"
+Public Const amCantDeleteAllLayers = "You cannot delete every layer out of a file. You must always have at least one"
+Public Const amCantEditScene = "You cannot alter the positions of a Scene. Select a frame, or the baseframe"
+Public Const amChangeLayerName = "Enter a new name for the new layer"
+Public Const amClearHistory = "Are you sure you want to completly remove the file history?"
+Public Const amClearTexture = "Are you sure you want to clear the texture?"
+Public Const amConfirmCloseFile = "Are you sure you want to close this file?"
+Public Const amConfirmRemoveGallary = "Are you sure you want to remove the gallary?"
+Public Const amConfirmSaveAndCloseFile = "This file has not been saved. Do you want to save it now?"
+Public Const amCreateTool = "Insert pre-build or custom objects into the model"
+Public Const amDivisionByZero = "The scale command failed due to a devision by zero error" & vbNewLine & "You are probebly trying to scale an object that is two dimensional"
+Public Const amEditTool = "Edit the existing objects with various tools and functions"
+Public Const amEditTool01 = "Select and move existing objects"
+Public Const amEditTool03 = "Select the vertecies that make up a sub-object within an objects"
+Public Const amEditTool04 = "Combine two or more objects to create one object containing several sub-objects"
+Public Const amEditTool05 = "Seperate the selected from the non-selected verteces in a single object"
+Public Const amEditTool06 = "Remove individual faces within the selected objects"
+Public Const amEditTool07 = "Remove individual vertecies and dependent faces within the selected objects"
+Public Const amEditTool08 = "Create a new vertex within the selected object"
+Public Const amEditTool09 = "Remove all duplicated and unused vertecies from the selected objects"
+Public Const amEditTool10 = "Break the faces within an object down into multiple smaller faces"
+Public Const amEditTool11 = "Pull the center of a face into a new position, bending the face"
+Public Const amEditTool12 = "Drag a face into a new position, leaving the original face intack"
+Public Const amEditTool13 = "Move individual vertecies within the selected objects"
+Public Const amEditTool14 = "Move individual faces within the selected objects"
+Public Const amEditTool15 = "Flip the selected objects up and down"
+Public Const amEditTool16 = "Flip the selected objects left and right"
+Public Const amEditTool17 = "Changes the direction of the faces within the selected objects"
+Public Const amEditTool18 = "Moves the selected vertecies up or down by a random amount"
+Public Const amEnterName = "Please enter a name for this model"
+Public Const amEnterGridShowSection = "You must always have at least one section displayed"
+Public Const amEnterNewLayerName = "Enter a name for the new layer"
+Public Const amFailedInport = "The file could not be imported. It may have the wrong extesion, or be in an unexpected format"
+Public Const amFailedToLoadFile = "The file failed to load properly"
+Public Const amFailedToRemoveGallary = "Failed to create the new gallery"
+Public Const amFailedToRename = "The name you specified was invalid. It must conform to the Windows naming convention"
+Public Const amGallaryNotEmpty = "This gallary is not empty. Do you want to remove it and everything in it as well?"
+Public Const amIncorrectSettings = "Some of the new settings are incorrect!"
+Public Const amInportFileName = "Inport file..."
+Public Const amLoadingGallary = "Loading Gallary. Please wait..."
+Public Const amMustCreateJoints = "You can not edit the positions of a frame until you have created one or more joints"
+Public Const amNewGallaryName = "Enter a name for the new gallary"
+Public Const amNewLightName = "Enter the name for a new light style"
+Public Const amNewFileWindow = "Create a new file, or load an existing one"
+Public Const amNewItemName = "Enter a new name for this item"
+Public Const amNoFileOpenToClose = "There is no file currently open that can be closed"
+Public Const amNoFileToMakeWindow = "There is no file currently open to create a new window for"
+Public Const amNoGallary = "There are no gallarys available"
+Public Const amOverwritefile = "This file already exists" & vbNewLine & "Do you want to overwrite it?"
+Public Const amOpenFileName = "Open file..."
+Public Const amPleaseWait = "Please wait..."
+Public Const amPleaseRestart = "Not all changes will take effect until Animation Shop is restarted"
+Public Const amReady = ""
+Public Const amRemoveLight = "Are you sure you want to remove this light style?"
+Public Const amReadOnlyFile = "This file is read only. Select another filename"
+Public Const amRotateTool = "Rotate the existing objects"
+Public Const amRemoveItem = "Are you sure you want to remove this item?"
+Public Const amRenameGallary = "Enter a new name for this gallary"
+Public Const amRestoreSettigns = "Are you sure you want to restore the settings back to the factory default?"
+Public Const amSetDirectXViewMode = "View your model in 3D with DirectX"
+Public Const amSelectGallaryFirst = "First select a gallary to place this object into"
+Public Const amSetTexMap = "View the texture map of your model"
+Public Const amScaleTool = "Strech and scale the exisiting objects"
+Public Const amSkelitonTool = "Design and edit a skeliton to animation the model"
+Public Const amShowNoDirectX = "DirectX 7.0 is not installed on this system. The hardware renderer mode will not be avaliable" & vbNewLine & vbNewLine & "Do you want to see this message again?"
+Public Const amSaveModelTo = "Save model..."
+Public Const amShapeError = "There was an internal error while creating the object. Please try again"
+Public Const amSelectTool = "Select and move objects within the model"
+Public Const amSet2DViewMode = "View and edit your model in 2D"
+Public Const amUnKnownInport = "This file has an unknown extension, and cannot be identified" & vbNewLine & "Avalible formats are - .JPG .ASC .POV .DFX .DAT .MAP"
+Public Const amWelcomeMessage = "Welcome to Animation Shop 8.3     Press F1 for Help if you are stuck !!!"
+

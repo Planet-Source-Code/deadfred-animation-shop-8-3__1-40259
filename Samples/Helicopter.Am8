@@ -1,0 +1,1595 @@
+MD_NT: 1 
+
+MD_NT: 1 
+MD_FP: C:\WINDOWS\Desktop\Animation Shop 8.2\Samples\Helicopter.Am8
+MD_FN: Helicopter.Am8
+LY_LK: Main
+LY_LN: Main
+LY_CL:  0 
+LY_GR: False
+LY_HD: False
+LY_LL: False
+LY_SL: True
+JTCNT:  3 
+OBCNT:  6 
+OBNEW: Load70742.3810.2895625
+OB_CL:  0 
+OB_DF:  0 
+OB_TC:  0 
+OB_TM:  0 
+OB_GN:  0 
+OB_TX: 
+OB_LY: Main
+OB_LK: False
+OB_HD: False
+OB_GY: False
+OB_VT:True
+
+-17 
+-4 
+ 123 
+OB_VT:True
+
+-17 
+-44 
+ 123 
+OB_VT:True
+
+ 35 
+ 12 
+ 111 
+OB_VT:True
+
+ 35 
+-60 
+ 111 
+OB_VT:True
+
+ 7 
+-12 
+ 267 
+OB_VT:True
+
+ 7 
+-24 
+ 295 
+OB_VT:True
+
+ 7 
+-36 
+ 267 
+OB_VT:True
+
+ 7 
+-36 
+ 295 
+OB_VT:True
+
+ 7 
+-84 
+ 275 
+OB_VT:True
+
+ 7 
+-84 
+ 295 
+OB_VT:True
+
+-37 
+ 12 
+ 111 
+OB_VT:True
+
+-37 
+-60 
+ 111 
+OB_VT:True
+
+ 55 
+ 36 
+ 87 
+OB_VT:True
+
+ 55 
+ 36 
+-89 
+OB_VT:True
+
+ 55 
+-20 
+-145 
+OB_VT:True
+
+ 55 
+-32 
+-125 
+OB_VT:True
+
+ 55 
+ 24 
+-125 
+OB_VT:True
+
+ 55 
+-84 
+ 87 
+OB_VT:True
+
+ 55 
+-84 
+-89 
+OB_VT:True
+
+ 55 
+ 4 
+-157 
+OB_VT:True
+
+-57 
+ 36 
+ 87 
+OB_VT:True
+
+-57 
+ 36 
+-89 
+OB_VT:True
+
+-57 
+-20 
+-145 
+OB_VT:True
+
+-57 
+-32 
+-125 
+OB_VT:True
+
+-57 
+ 24 
+-125 
+OB_VT:True
+
+-57 
+-84 
+ 87 
+OB_VT:True
+
+-57 
+-84 
+-89 
+OB_VT:True
+
+-57 
+ 4 
+-157 
+OB_VT:True
+
+ 15 
+-4 
+ 123 
+OB_VT:True
+
+-9 
+-12 
+ 267 
+OB_VT:True
+
+-9 
+-24 
+ 295 
+OB_VT:True
+
+-9 
+-36 
+ 267 
+OB_VT:True
+
+-9 
+-36 
+ 295 
+OB_VT:True
+
+ 15 
+-44 
+ 123 
+OB_VT:True
+
+-9 
+-84 
+ 275 
+OB_VT:True
+
+-9 
+-84 
+ 295 
+OB2FC: 4 
+ 14 
+ 0 
+ 13 
+ 0 
+ 21 
+ 0 
+ 22 
+ 0 
+OB2FC: 4 
+ 27 
+ 0 
+ 26 
+ 0 
+ 18 
+ 0 
+ 19 
+ 0 
+OB2FC: 4 
+ 13 
+ 0 
+ 14 
+ 0 
+ 19 
+ 0 
+ 18 
+ 0 
+OB2FC: 4 
+ 22 
+ 0 
+ 21 
+ 0 
+ 26 
+ 0 
+ 27 
+ 0 
+OB2FC: 4 
+ 29 
+ 0 
+ 5 
+ 0 
+ 30 
+ 0 
+ 1 
+ 0 
+OB2FC: 4 
+ 2 
+ 0 
+ 32 
+ 0 
+ 7 
+ 0 
+ 34 
+ 0 
+OB2FC: 4 
+ 5 
+ 0 
+ 29 
+ 0 
+ 34 
+ 0 
+ 7 
+ 0 
+OB2FC: 4 
+ 1 
+ 0 
+ 30 
+ 0 
+ 32 
+ 0 
+ 2 
+ 0 
+OB2FC: 4 
+ 13 
+ 0 
+ 3 
+ 0 
+ 11 
+ 0 
+ 21 
+ 0 
+OB2FC: 4 
+ 26 
+ 0 
+ 12 
+ 0 
+ 4 
+ 0 
+ 18 
+ 0 
+OB2FC: 4 
+ 3 
+ 0 
+ 13 
+ 0 
+ 18 
+ 0 
+ 4 
+ 0 
+OB2FC: 4 
+ 21 
+ 0 
+ 11 
+ 0 
+ 12 
+ 0 
+ 26 
+ 0 
+OB2FC: 4 
+ 3 
+ 0 
+ 29 
+ 0 
+ 1 
+ 0 
+ 11 
+ 0 
+OB2FC: 4 
+ 12 
+ 0 
+ 2 
+ 0 
+ 34 
+ 0 
+ 4 
+ 0 
+OB2FC: 4 
+ 29 
+ 0 
+ 3 
+ 0 
+ 4 
+ 0 
+ 34 
+ 0 
+OB2FC: 4 
+ 11 
+ 0 
+ 1 
+ 0 
+ 2 
+ 0 
+ 12 
+ 0 
+OB2FC: 4 
+ 35 
+ 0 
+ 36 
+ 0 
+ 10 
+ 0 
+ 9 
+ 0 
+OB2FC: 4 
+ 36 
+ 0 
+ 35 
+ 0 
+ 32 
+ 0 
+ 33 
+ 0 
+OB2FC: 4 
+ 9 
+ 0 
+ 10 
+ 0 
+ 8 
+ 0 
+ 7 
+ 0 
+OB2FC: 4 
+ 33 
+ 0 
+ 8 
+ 0 
+ 10 
+ 0 
+ 36 
+ 0 
+OB2FC: 4 
+ 35 
+ 0 
+ 9 
+ 0 
+ 7 
+ 0 
+ 32 
+ 0 
+OB2FC: 4 
+ 5 
+ 0 
+ 6 
+ 0 
+ 31 
+ 0 
+ 30 
+ 0 
+OB2FC: 4 
+ 33 
+ 0 
+ 32 
+ 0 
+ 30 
+ 0 
+ 31 
+ 0 
+OB2FC: 4 
+ 7 
+ 0 
+ 8 
+ 0 
+ 6 
+ 0 
+ 5 
+ 0 
+OB2FC: 4 
+ 31 
+ 0 
+ 6 
+ 0 
+ 8 
+ 0 
+ 33 
+ 0 
+OB2FC: 4 
+ 17 
+ 0 
+ 14 
+ 0 
+ 22 
+ 0 
+ 25 
+ 0 
+OB2FC: 4 
+ 24 
+ 0 
+ 27 
+ 0 
+ 19 
+ 0 
+ 16 
+ 0 
+OB2FC: 4 
+ 14 
+ 0 
+ 17 
+ 0 
+ 16 
+ 0 
+ 19 
+ 0 
+OB2FC: 4 
+ 25 
+ 0 
+ 22 
+ 0 
+ 27 
+ 0 
+ 24 
+ 0 
+OB2FC: 4 
+ 20 
+ 0 
+ 17 
+ 0 
+ 25 
+ 0 
+ 28 
+ 0 
+OB2FC: 4 
+ 23 
+ 0 
+ 24 
+ 0 
+ 16 
+ 0 
+ 15 
+ 0 
+OB2FC: 4 
+ 17 
+ 0 
+ 20 
+ 0 
+ 15 
+ 0 
+ 16 
+ 0 
+OB2FC: 4 
+ 28 
+ 0 
+ 25 
+ 0 
+ 24 
+ 0 
+ 23 
+ 0 
+OB2FC: 4 
+ 20 
+ 0 
+ 28 
+ 0 
+ 23 
+ 0 
+ 15 
+ 0 
+OBNEW: Load70742.3820.301948
+OB_CL:  0 
+OB_DF:  0 
+OB_TC:  0 
+OB_TM:  0 
+OB_GN:  0 
+OB_TX: 
+OB_LY: Main
+OB_LK: False
+OB_HD: False
+OB_GY: False
+OB_VT:True
+
+-61 
+ 76 
+-131 
+OB_VT:True
+
+-61 
+ 76 
+ 105 
+OB_VT:True
+
+-73 
+ 76 
+ 105 
+OB_VT:True
+
+-73 
+ 76 
+-131 
+OB_VT:True
+
+-73 
+ 68 
+-131 
+OB_VT:True
+
+-73 
+ 68 
+ 105 
+OB_VT:True
+
+-61 
+ 68 
+ 105 
+OB_VT:True
+
+-61 
+ 68 
+-131 
+OB_VT:True
+
+-45 
+ 36 
+ 49 
+OB_VT:True
+
+-45 
+ 36 
+ 61 
+OB_VT:True
+
+-61 
+ 68 
+ 61 
+OB_VT:True
+
+-61 
+ 68 
+ 49 
+OB_VT:True
+
+-57 
+ 36 
+ 61 
+OB_VT:True
+
+-57 
+ 36 
+ 49 
+OB_VT:True
+
+-73 
+ 68 
+ 49 
+OB_VT:True
+
+-73 
+ 68 
+ 61 
+OB_VT:True
+
+-45 
+ 36 
+-67 
+OB_VT:True
+
+-45 
+ 36 
+-55 
+OB_VT:True
+
+-61 
+ 68 
+-55 
+OB_VT:True
+
+-61 
+ 68 
+-67 
+OB_VT:True
+
+-57 
+ 36 
+-55 
+OB_VT:True
+
+-57 
+ 36 
+-67 
+OB_VT:True
+
+-73 
+ 68 
+-67 
+OB_VT:True
+
+-73 
+ 68 
+-55 
+OB2FC: 4 
+ 1 
+ 0 
+ 2 
+ 0 
+ 3 
+ 0 
+ 4 
+ 0 
+OB2FC: 4 
+ 5 
+ 0 
+ 6 
+ 0 
+ 7 
+ 0 
+ 8 
+ 0 
+OB2FC: 4 
+ 2 
+ 0 
+ 1 
+ 0 
+ 8 
+ 0 
+ 7 
+ 0 
+OB2FC: 4 
+ 4 
+ 0 
+ 3 
+ 0 
+ 6 
+ 0 
+ 5 
+ 0 
+OB2FC: 4 
+ 7 
+ 0 
+ 6 
+ 0 
+ 3 
+ 0 
+ 2 
+ 0 
+OB2FC: 4 
+ 1 
+ 0 
+ 4 
+ 0 
+ 5 
+ 0 
+ 8 
+ 0 
+OB2FC: 4 
+ 9 
+ 0 
+ 10 
+ 0 
+ 11 
+ 0 
+ 12 
+ 0 
+OB2FC: 4 
+ 13 
+ 0 
+ 14 
+ 0 
+ 15 
+ 0 
+ 16 
+ 0 
+OB2FC: 4 
+ 12 
+ 0 
+ 15 
+ 0 
+ 14 
+ 0 
+ 9 
+ 0 
+OB2FC: 4 
+ 10 
+ 0 
+ 13 
+ 0 
+ 16 
+ 0 
+ 11 
+ 0 
+OB2FC: 4 
+ 17 
+ 0 
+ 18 
+ 0 
+ 19 
+ 0 
+ 20 
+ 0 
+OB2FC: 4 
+ 21 
+ 0 
+ 22 
+ 0 
+ 23 
+ 0 
+ 24 
+ 0 
+OB2FC: 4 
+ 20 
+ 0 
+ 23 
+ 0 
+ 22 
+ 0 
+ 17 
+ 0 
+OB2FC: 4 
+ 18 
+ 0 
+ 21 
+ 0 
+ 24 
+ 0 
+ 19 
+ 0 
+OBNEW: Load70742.3830.7747401
+OB_CL:  0 
+OB_DF:  0 
+OB_TC:  0 
+OB_TM:  0 
+OB_GN:  0 
+OB_TX: 
+OB_LY: Main
+OB_LK: False
+OB_HD: False
+OB_GY: False
+OB_VT:True
+
+ 277 
+-100 
+ 1 
+OB_VT:True
+
+ 277 
+-100 
+ 13 
+OB_VT:True
+
+-283 
+-100 
+ 13 
+OB_VT:True
+
+-283 
+-100 
+ 1 
+OB_VT:True
+
+-283 
+-108 
+ 1 
+OB_VT:True
+
+-283 
+-108 
+ 13 
+OB_VT:True
+
+ 277 
+-108 
+ 13 
+OB_VT:True
+
+ 277 
+-108 
+ 1 
+OB_VT:True
+
+ 5 
+-100 
+-63 
+OB_VT:True
+
+ 5 
+-100 
+ 1 
+OB_VT:True
+
+-7 
+-100 
+ 1 
+OB_VT:True
+
+-7 
+-100 
+-63 
+OB_VT:True
+
+-7 
+-108 
+-63 
+OB_VT:True
+
+-7 
+-108 
+ 1 
+OB_VT:True
+
+ 5 
+-108 
+ 1 
+OB_VT:True
+
+ 5 
+-108 
+-63 
+OB_VT:True
+
+ 5 
+-100 
+ 13 
+OB_VT:True
+
+ 5 
+-100 
+ 77 
+OB_VT:True
+
+-7 
+-100 
+ 77 
+OB_VT:True
+
+-7 
+-100 
+ 13 
+OB_VT:True
+
+-7 
+-108 
+ 13 
+OB_VT:True
+
+-7 
+-108 
+ 77 
+OB_VT:True
+
+ 5 
+-108 
+ 77 
+OB_VT:True
+
+ 5 
+-108 
+ 13 
+OB2FC: 4 
+ 1 
+ 0 
+ 2 
+ 0 
+ 3 
+ 0 
+ 4 
+ 0 
+OB2FC: 4 
+ 5 
+ 0 
+ 6 
+ 0 
+ 7 
+ 0 
+ 8 
+ 0 
+OB2FC: 4 
+ 2 
+ 0 
+ 1 
+ 0 
+ 8 
+ 0 
+ 7 
+ 0 
+OB2FC: 4 
+ 4 
+ 0 
+ 3 
+ 0 
+ 6 
+ 0 
+ 5 
+ 0 
+OB2FC: 4 
+ 7 
+ 0 
+ 6 
+ 0 
+ 3 
+ 0 
+ 2 
+ 0 
+OB2FC: 4 
+ 1 
+ 0 
+ 4 
+ 0 
+ 5 
+ 0 
+ 8 
+ 0 
+OB2FC: 4 
+ 9 
+ 0 
+ 10 
+ 0 
+ 11 
+ 0 
+ 12 
+ 0 
+OB2FC: 4 
+ 13 
+ 0 
+ 14 
+ 0 
+ 15 
+ 0 
+ 16 
+ 0 
+OB2FC: 4 
+ 10 
+ 0 
+ 9 
+ 0 
+ 16 
+ 0 
+ 15 
+ 0 
+OB2FC: 4 
+ 12 
+ 0 
+ 11 
+ 0 
+ 14 
+ 0 
+ 13 
+ 0 
+OB2FC: 4 
+ 9 
+ 0 
+ 12 
+ 0 
+ 13 
+ 0 
+ 16 
+ 0 
+OB2FC: 4 
+ 17 
+ 0 
+ 18 
+ 0 
+ 19 
+ 0 
+ 20 
+ 0 
+OB2FC: 4 
+ 21 
+ 0 
+ 22 
+ 0 
+ 23 
+ 0 
+ 24 
+ 0 
+OB2FC: 4 
+ 18 
+ 0 
+ 17 
+ 0 
+ 24 
+ 0 
+ 23 
+ 0 
+OB2FC: 4 
+ 20 
+ 0 
+ 19 
+ 0 
+ 22 
+ 0 
+ 21 
+ 0 
+OB2FC: 4 
+ 23 
+ 0 
+ 22 
+ 0 
+ 19 
+ 0 
+ 18 
+ 0 
+OBNEW: Load70742.3841.401764E-02
+OB_CL:  0 
+OB_DF:  0 
+OB_TC:  0 
+OB_TM:  0 
+OB_GN:  0 
+OB_TX: 
+OB_LY: Main
+OB_LK: False
+OB_HD: False
+OB_GY: False
+OB_VT:True
+
+-25 
+-100 
+-15 
+OB_VT:True
+
+-25 
+-100 
+ 29 
+OB_VT:True
+
+ 19 
+-100 
+ 29 
+OB_VT:True
+
+ 19 
+-100 
+-15 
+OB_VT:True
+
+ 39 
+-84 
+ 49 
+OB_VT:True
+
+ 39 
+-84 
+-35 
+OB_VT:True
+
+-41 
+-84 
+-35 
+OB_VT:True
+
+-41 
+-84 
+ 49 
+OB2FC: 4 
+ 1 
+ 0 
+ 2 
+ 0 
+ 3 
+ 0 
+ 4 
+ 0 
+OB2FC: 4 
+ 5 
+ 0 
+ 6 
+ 0 
+ 4 
+ 0 
+ 3 
+ 0 
+OB2FC: 4 
+ 7 
+ 0 
+ 8 
+ 0 
+ 2 
+ 0 
+ 1 
+ 0 
+OB2FC: 4 
+ 3 
+ 0 
+ 2 
+ 0 
+ 8 
+ 0 
+ 5 
+ 0 
+OB2FC: 4 
+ 6 
+ 0 
+ 7 
+ 0 
+ 1 
+ 0 
+ 4 
+ 0 
+OBNEW: Load70742.3850.7607236
+OB_CL:  0 
+OB_DF:  0 
+OB_TC:  0 
+OB_TM:  0 
+OB_GN:  0 
+OB_TX: 
+OB_LY: Main
+OB_LK: False
+OB_HD: False
+OB_GY: False
+OB_VT:True
+
+ 67 
+ 76 
+-131 
+OB_VT:True
+
+ 67 
+ 76 
+ 105 
+OB_VT:True
+
+ 55 
+ 76 
+ 105 
+OB_VT:True
+
+ 55 
+ 76 
+-131 
+OB_VT:True
+
+ 55 
+ 68 
+-131 
+OB_VT:True
+
+ 55 
+ 68 
+ 105 
+OB_VT:True
+
+ 67 
+ 68 
+ 105 
+OB_VT:True
+
+ 67 
+ 68 
+-131 
+OB_VT:True
+
+ 55 
+ 36 
+ 49 
+OB_VT:True
+
+ 55 
+ 36 
+ 61 
+OB_VT:True
+
+ 67 
+ 68 
+ 61 
+OB_VT:True
+
+ 67 
+ 68 
+ 49 
+OB_VT:True
+
+ 43 
+ 36 
+ 61 
+OB_VT:True
+
+ 43 
+ 36 
+ 49 
+OB_VT:True
+
+ 55 
+ 68 
+ 49 
+OB_VT:True
+
+ 55 
+ 68 
+ 61 
+OB_VT:True
+
+ 55 
+ 36 
+-67 
+OB_VT:True
+
+ 55 
+ 36 
+-55 
+OB_VT:True
+
+ 67 
+ 68 
+-55 
+OB_VT:True
+
+ 67 
+ 68 
+-67 
+OB_VT:True
+
+ 43 
+ 36 
+-55 
+OB_VT:True
+
+ 43 
+ 36 
+-67 
+OB_VT:True
+
+ 55 
+ 68 
+-67 
+OB_VT:True
+
+ 55 
+ 68 
+-55 
+OB2FC: 4 
+ 1 
+ 0 
+ 2 
+ 0 
+ 3 
+ 0 
+ 4 
+ 0 
+OB2FC: 4 
+ 5 
+ 0 
+ 6 
+ 0 
+ 7 
+ 0 
+ 8 
+ 0 
+OB2FC: 4 
+ 2 
+ 0 
+ 1 
+ 0 
+ 8 
+ 0 
+ 7 
+ 0 
+OB2FC: 4 
+ 4 
+ 0 
+ 3 
+ 0 
+ 6 
+ 0 
+ 5 
+ 0 
+OB2FC: 4 
+ 7 
+ 0 
+ 6 
+ 0 
+ 3 
+ 0 
+ 2 
+ 0 
+OB2FC: 4 
+ 1 
+ 0 
+ 4 
+ 0 
+ 5 
+ 0 
+ 8 
+ 0 
+OB2FC: 4 
+ 9 
+ 0 
+ 10 
+ 0 
+ 11 
+ 0 
+ 12 
+ 0 
+OB2FC: 4 
+ 13 
+ 0 
+ 14 
+ 0 
+ 15 
+ 0 
+ 16 
+ 0 
+OB2FC: 4 
+ 12 
+ 0 
+ 15 
+ 0 
+ 14 
+ 0 
+ 9 
+ 0 
+OB2FC: 4 
+ 10 
+ 0 
+ 13 
+ 0 
+ 16 
+ 0 
+ 11 
+ 0 
+OB2FC: 4 
+ 17 
+ 0 
+ 18 
+ 0 
+ 19 
+ 0 
+ 20 
+ 0 
+OB2FC: 4 
+ 21 
+ 0 
+ 22 
+ 0 
+ 23 
+ 0 
+ 24 
+ 0 
+OB2FC: 4 
+ 20 
+ 0 
+ 23 
+ 0 
+ 22 
+ 0 
+ 17 
+ 0 
+OB2FC: 4 
+ 18 
+ 0 
+ 21 
+ 0 
+ 24 
+ 0 
+ 19 
+ 0 
+OBNEW: Load70742.3860.81449
+OB_CL:  0 
+OB_DF:  0 
+OB_TC:  0 
+OB_TM:  0 
+OB_GN:  0 
+OB_TX: 
+OB_LY: Main
+OB_LK: False
+OB_HD: False
+OB_GY: False
+OB_VT:True
+
+-9 
+ 4 
+ 275 
+OB_VT:True
+
+-9 
+ 4 
+ 283 
+OB_VT:True
+
+-17 
+ 4 
+ 283 
+OB_VT:True
+
+-17 
+ 4 
+ 275 
+OB_VT:True
+
+-17 
+-68 
+ 275 
+OB_VT:True
+
+-17 
+-68 
+ 283 
+OB_VT:True
+
+-9 
+-68 
+ 283 
+OB_VT:True
+
+-9 
+-68 
+ 275 
+OB2FC: 4 
+ 1 
+ 0 
+ 2 
+ 0 
+ 3 
+ 0 
+ 4 
+ 0 
+OB2FC: 4 
+ 5 
+ 0 
+ 6 
+ 0 
+ 7 
+ 0 
+ 8 
+ 0 
+OB2FC: 4 
+ 2 
+ 0 
+ 1 
+ 0 
+ 8 
+ 0 
+ 7 
+ 0 
+OB2FC: 4 
+ 4 
+ 0 
+ 3 
+ 0 
+ 6 
+ 0 
+ 5 
+ 0 
+OB2FC: 4 
+ 7 
+ 0 
+ 6 
+ 0 
+ 3 
+ 0 
+ 2 
+ 0 
+OB2FC: 4 
+ 1 
+ 0 
+ 4 
+ 0 
+ 5 
+ 0 
+ 8 
+ 0 
+OBEND:False
+JTNEW: Load70742.3810.7055475
+JT_CL:  0 
+JT_GY: False
+JT_HD: False
+JT_LK: False
+JT_NM: Body
+JT_TG: 
+JT_OX:  0 
+JT_OY: -20 
+JT_OZ:  0 
+JT_PF:  0 
+JT_PV:  0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+JTNEW: Load70742.3820.533424
+JT_CL:  0 
+JT_GY: False
+JT_HD: False
+JT_LK: False
+JT_NM: Main Rotor
+JT_TG: Load70742.3810.7055475
+JT_OX:  0 
+JT_OY: -103 
+JT_OZ:  8 
+JT_PF:  0 
+JT_PV:  0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+JTNEW: Load70742.3830.5795186
+JT_CL:  0 
+JT_GY: False
+JT_HD: False
+JT_LK: False
+JT_NM: Tail Rotor
+JT_TG: Load70742.3810.7055475
+JT_OX:  0 
+JT_OY: -30 
+JT_OZ:  278 
+JT_PF:  0 
+JT_PV:  0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+JTEND:False
+UDTJT: 0 
+SC_KY: Baseframe
+SC_NM: Baseframe
+FM_KY: Baseframe
+FM_NM: Baseframe
+FM_SM:  0 
+FM_SP:  0 
+NEWRW: Load70742.3810.7055475
+Body
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+NEWRW: Load70742.3820.533424
+Main Rotor
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+NEWRW: Load70742.3830.5795186
+Tail Rotor
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+ 0 
+AM_QT: 0 
